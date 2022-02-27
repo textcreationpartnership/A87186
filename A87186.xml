@@ -1,0 +1,651 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Considerations tending to the happy accomplishment of Englands reformation in church and state. Humbly presented to the piety and wisdome of the High and Honourable Court of Parliament.</title>
+            <author>Hartlib, Samuel, d. 1662.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 91 KB of XML-encoded text transcribed from 37 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87186</idno>
+            <idno type="STC">Wing H981</idno>
+            <idno type="STC">Thomason E389_4</idno>
+            <idno type="STC">Thomason E397_25</idno>
+            <idno type="STC">ESTC R201517</idno>
+            <idno type="EEBO-CITATION">99862018</idno>
+            <idno type="PROQUEST">99862018</idno>
+            <idno type="VID">130554</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A87186)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 130554)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 62:E389[4] or 63:E397[25])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Considerations tending to the happy accomplishment of Englands reformation in church and state. Humbly presented to the piety and wisdome of the High and Honourable Court of Parliament.</title>
+                  <author>Hartlib, Samuel, d. 1662.</author>
+               </titleStmt>
+               <extent>[4], 59, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Anno 1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Pref. signed: Samuel Hartlib.</note>
+                  <note>Caption title.</note>
+                  <note>Place of publication from Wing; publication date from colophon.</note>
+                  <note>Annotation on Thomason copy E.389[4]: "May 1647".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  History --  Early works to 1800.</term>
+               <term>Church of England --  Government --  Early works to 1800.</term>
+               <term>Church and state --  England --  Early works to 1800.</term>
+               <term>Great Britain --  Church history --  17th century.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Religious aspects --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-03</date>
+            <label>Taryn Hakala</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>Taryn Hakala</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="letter">
+            <pb facs="tcp:130554:1"/>
+            <pb facs="tcp:130554:1" rendition="simple:additions"/>
+            <head>CONSIDERATIONS TENDING To the Happy Accompliſhment OF <hi>ENGLANDS</hi> Reformation in Church and State.</head>
+            <head type="sub">Humbly preſented to the Piety and Wiſdome of the High and Honourable Court of Parliament.</head>
+            <opener>
+               <salute>Right Honourable Senators,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">A</seg>S I have been long agoe convicted of this Truth, that my Life is not mine own but Gods, and that God appoints the <g ref="char:V">Ʋ</g>ſe of it to be retur<g ref="char:EOLhyphen"/>ned unto Him in Chriſt through his Body, which is the Church viſible: So I make ac<g ref="char:EOLhyphen"/>count that I can have no true delight in the enjoy<g ref="char:EOLhyphen"/>ment of this Earthly Life of mine any further, then I find my ſelfe <g ref="char:V">Ʋ</g>ſefull to others thereby in Chriſts
+<pb facs="tcp:130554:2"/>
+Way. Therefore I dare not deſire either the conti<g ref="char:EOLhyphen"/>nuance or comforts thereof any longer, then I may be ſerviceable therein to the Common-wealth of Iſ<g ref="char:EOLhyphen"/>rael. And although I know not what ſervice in this Kind I have hitherto done, or may do hereafter, (for I am no competent Judge of this matter) yet I am comforted herein, that I have the teſtimony of my Conſcience aſſuring mee, that I have ſincerely ſpent and laid out my ſelfe wholly to this effect. And that although I have been careleſſe of my ſelfe as to this world <hi>(ſine invidia lucri)</hi> yet I have ſeen al<g ref="char:EOLhyphen"/>wayes Gods hand in the midst of many ſtraits and difficulties ſupporting me, and ſhewing a way to proceed, when I found my ſelfe at a ſtand. Now becauſe of late this hath been more eminently appa<g ref="char:EOLhyphen"/>rent then ever, by the ſpeciall Providence of God in moving the Goodneſſe and Juſtice of the Houſes to Order my preſent maintenance, and future ſup<g ref="char:EOLhyphen"/>port; I thinke my ſelfe highly obliged by all the bonds of Gratitude, to be ſo much the more Zealous, Free and Earneſt both towards God and Men, to endeavour the Advancement of his Glory, and your Felicity, which I am fully perſwaded may be done by ſuch Motions and Propoſalls as theſe are, which ſome (who are not much ſwayed by the Intereſts of fleſh and blood) having concurred with me to put
+<pb facs="tcp:130554:2"/>
+to Paper, I ſuppoſe may have an effectuall influence upon thoſe Honourable Friends of mine in the Houſes, who are pleaſed to looke upon me as a Ser<g ref="char:EOLhyphen"/>vant to every one for the Publick Good of All. Therefore in requitall of their care for me, I find my heart inlarged with cares for them, and by the advantage of moſt thankful Affections and Reſpects I would gladly give you All occaſion to be Inſtru<g ref="char:EOLhyphen"/>mentall towards Your own Happineſſe, and the per<g ref="char:EOLhyphen"/>fect Wayes of ſuch a deſired Reformation both of Church and State, as may by Gods bleſſing thereon in due time ferment the rest of the world; Which by the enſuing Diſcourſe will appeare in ſome mea<g ref="char:EOLhyphen"/>ſure feaſible, if the Things offered therein can be ſet afoot here; I ſay, if they can bee ſet a-afoot here; not that I doubt of the Poſſibility thereof in themſelves. (for I know that elſwhere the Matters here mentioned, have been practiſed by piece-meale, and therefore there is no reaſon why they may not be all at once jointly made uſe of a<g ref="char:EOLhyphen"/>mongst <g ref="char:V">Ʋ</g>s) but that I am ſomwhat in doubt of the ſeaſon, Whether the Spirits of this Age bee not too much as yet (to ſay no more) diſcompoſed and ſcat<g ref="char:EOLhyphen"/>tered to entertaine ſuch Overtures. But let Men be as they will, ſuch ſeeds as theſe muſt be ſown in their hearts, and preſented to their thoughts. Who know<g ref="char:EOLhyphen"/>eth
+<pb facs="tcp:130554:3"/>
+what they may worke? Sure I am the effect is in Gods hand, and he can make this honeſt endevour to become (as it is intended without partiallity) a Help and Expedient to that Regular Settlement, which all ſuch as are upright in heart wiſh and long for. And I hope that ſuch as ſeek not to make their own will, but the Word of God the ſole Rule of our Reformation will all contribute to ſuch deſignes as theſe, for the compoſure of needleſſe differences. And that the Lord who is Wonderfull in Councell, and Excellent in VVorking, may bring all this to paſſe, I ſhall not ceaſe to be reſtleſſe before his Throne with my Prayers, who am the meaneſt of all that ſerve the Publick; but in truth, and as long as I breathe profeſſedly</p>
+            <closer>
+               <signed>Right Honourable Senators, Your moſt obliged, humble and faithfull Servant, SAMVEL HARTLIE.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:130554:3"/>
+            <head>A BRIEF DISCOVRSE Concerning The Accomplishment of our REFORMATION: <hi>Tending to ſhew,</hi> That by an Office of Publike Addreſſe in Spirituall and Temporall Matters, the Glory of God, and the Happineſſe of this Nation may be highly advanced.</head>
+            <p>
+               <seg rend="decorInit">W</seg>EE have exceeding great cauſe to bleſſe the Lord our God, who hath bleſſed us in many things farre above our fore-Fa<g ref="char:EOLhyphen"/>thers; but chiefly in this, that we have the everlaſting Goſpel of Jeſus Chriſt revealed unto us, more evident<g ref="char:EOLhyphen"/>ly, then ever they had in former times. And
+<pb n="2" facs="tcp:130554:4"/>
+although many of our neighbour-Nations partake of this great bleſſing with us, yet in Two Things the people of this Iſland, and chiefly that of <hi>England</hi> doth exceed all the reſt.</p>
+            <p>Firſt, herein, that this Parliament, and ſuch as joyne with it in this Publike Cauſe, are more ſolemnly and ſtrongly engaged to advance the Glory of God by the Reformation of this Church and State, then any other Proteſtants are.</p>
+            <p>Secondly, in this, that God hath put into the hands of this Parliament ſufficiently all the Meanes and Advantages that may enable them to diſcharge their duty in order to this engage<g ref="char:EOLhyphen"/>ment.</p>
+            <p>If then this good and mighty hand of God, which hitherto hath done ſo many and ſo won<g ref="char:EOLhyphen"/>derfull things for Us, will graciouſly continue to lead our Leaders on, in the way wherin they are entered, till they finiſh their courſe ſucceſ<g ref="char:EOLhyphen"/>fully; it is evident, that our Happineſſe may be compleated for our Age in a full meaſure, and without interruption propagated afterward for many Ages unto our Poſterity: And leſt we ſhould ſeem to be careleſſe of ſo great an Ad<g ref="char:EOLhyphen"/>vantage, let us look upon our State, to make a
+<pb n="3" facs="tcp:130554:4"/>
+diſcovery of <hi>Gods</hi> dealing with Us, to the praiſe of his Name, and the increaſe of our hopes.</p>
+            <p>Firſt then, this our making of a Nationall Co<g ref="char:EOLhyphen"/>venant in ſo ſolemn a manner with Almighty God, with our Neighbour-Nation, and with each other in reference unto God, as it is an extraordinary engagement to bind our ſoules unto his publike Service; ſo it hath been from him to Us the conveyance of an extraordinary bleſſing upon our proceedings, by Scattering all our adverſaries before Us, and breaking al their plots and enterpriſes againſt Us; by which meanes alſo our engagement towards God is more ſtrongly confirmed and increaſed, be<g ref="char:EOLhyphen"/>cauſe he hath not onely delivered Us from the deadly feares of our moſt dangerous and de<g ref="char:EOLhyphen"/>ſperate Enemies; but hath manifeſted his acce<g ref="char:EOLhyphen"/>ptance of our Perſons, and approved of our wayes and undertakings by a ſucceſſe, which is every way admirable.</p>
+            <p>In the ſecond place, the Advantages which by this ſucceſſe hee hath put into our hands to effect that whereunto wee are engaged, are no leſſe obliging towards the Advancement of his Glory, then the Covenant it ſelf. For this very tye whereby God hath bound Us to him<g ref="char:EOLhyphen"/>ſelf
+<pb n="4" facs="tcp:130554:5"/>
+before other people Nationally, and called upon Us to make a ſolemne Profeſſion of our purpoſe to live reformed under his Ordinance as Members of Chriſts body, hath obliged Us before others, to mind not Our ſelves alone, but the Communion of his Saints alſo in all the Reformed Churches.</p>
+            <p>Then this other Advantage, that by our ſuc<g ref="char:EOLhyphen"/>ceſſe hee hath made our Parliament eminently Honorable, and his great Truſtee of the grea<g ref="char:EOLhyphen"/>teſt and moſt uncontroulable Power and Au<g ref="char:EOLhyphen"/>thority which is in any Proteſtant State on earth; doth bind Us ſo much the more to bee mindfull of his Honour, to advance it with all the power and authority which hee hath be<g ref="char:EOLhyphen"/>ſtowed upon Us.</p>
+            <p>Moreover this, that hee hath put into the hands of our Parliament, the right and privi<g ref="char:EOLhyphen"/>ledge to Set a worke, to Addreſſe and to Diſpoſe of, more large Spirituall Talents; and Intellectuall Abilities, and of more plentifull Temporall Meanes and Helpes for Spirituall Uſes, then other Nations have, and withall, that offer he doth at this time alſo more convenient opportunities and occaſions to Us, then to any others, to improve all theſe bleſſings to his
+<pb n="5" facs="tcp:130554:5" rendition="simple:additions"/>
+Glory, to our owne Good, and the Comfort of many; This (<gap reason="illegible: overwritten" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſay) that God doth all this for Us by our Parliament, is evidently a more effe<g ref="char:EOLhyphen"/>ctuall drawing and engaging of Us to himſelf, then is our voluntary binding of our ſelves o<g ref="char:EOLhyphen"/>ver unto him by our Nationall Covenant. Therefore as we may gather that our guilt for this reaſon will bee above other Nations ex<g ref="char:EOLhyphen"/>treame heavily increaſed upon Us, in caſe we neglect the duties of ſo many and ſtrong Obli<g ref="char:EOLhyphen"/>gations; ſo we may hope that our Happineſs in caſe we anſwer this great call, and diſcharge the truſt which God hath repoſed in Us faithfully, will be upon Us and our Poſterity, more then upon others, for ever alſo increaſed. From which Conſideration we muſt conclude, That Three Things will be required of Us to acquit our ſelves of all theſe engagements.</p>
+            <p>The Firſt is that which the Nationall Cove<g ref="char:EOLhyphen"/>nant doth bind Us unto within and towards Our ſelves, for the redreſſe of Publike Evils.</p>
+            <p>The Second is that which the Univerſall Kingdom of God in the world, and the Church Viſible doth require of Us towards all, for the addreſſe of every one to partake of Publike Bleſſings.</p>
+            <p>
+               <pb n="6" facs="tcp:130554:6"/>And the Third is that, which the Communi<g ref="char:EOLhyphen"/>on of Saints doth oblige Us unto, toward our Proteſtant Brethren at home and abroad, for the Common Advancement of Religion, and againſt the Common Enemies thereof. Upon the Conſcionable performance of our Duties in theſe Three Relations, the continuance and enlargement of our Happines will conſiſt: Let us then briefly conſider of the Ways by which wee ſhould acquit our ſelves of theſe engage<g ref="char:EOLhyphen"/>ments.</p>
+            <p>The Nationall Covenant doth bind Us for the redreſſe of our Evils, to ſettle our Church, our Civill State, and our particular Perſons in a Reformed condition. The Reformation of our Church is ſpecified in the ſettlement of Truth by a Common Confeſſion of Faith and Cate<g ref="char:EOLhyphen"/>chiſme: in the ſettlement of Righteouſneſſe and good Order by a Common Directory for Worſhip, for Government, and for Diſcipline; and in the overthrow of Error, of Unrighte<g ref="char:EOLhyphen"/>ouſnes, and of Diſorder, by the aboliſhment of Popery, of Prelacy, of Superſtition, of Hereſie, of Schiſme, and of all Profaneſſe. The Re<g ref="char:EOLhyphen"/>formation of the Civill State, is alſo ſpecified in the maintenance of that Authority whereby
+<pb n="7" facs="tcp:130554:6"/>
+Juſtice is to be adminiſtred unto the Nations; in the preſervation of that Peace and Unity, which is ſetled between the Kingdomes, in the ſuppreſſion of all evil Inſtruments that diſturb the Publike Peace between the King and his People, or between the two Nations; and in the faithfulneſs of every one, to perſevere in theſe endevours, and to maintaine thoſe that proſe<g ref="char:EOLhyphen"/>cute the ſame. And the Reformation of Our particular Perſon is ſpecified laſtly, in the Hu<g ref="char:EOLhyphen"/>miliation of every one for his own ſins, the ſins of the Nations; and in the care which every one of Us doth bind himſelf unto, to Reforme his own life according to the Goſpel of Chriſt, and to watch over all thoſe that are under Our charges to the ſame effect.</p>
+            <p>Now when all this is done, and Nationally agreed unto, as is expreſly mentioned in the Covenant, yet even then all will not be done, which of Us Nationally God doth require for the Advancement of his Glory. For the very Reformation itſelf (if truly compleated) will oblige the Nation more effectually, then ever hitherto it hath bin; to mind a further Intereſt both in the generall Communion of Saints, and in the Univerſall Kingdom of God: For then
+<pb n="8" facs="tcp:130554:7"/>
+Chriſts ſaying wil take place in Us, <hi>Luk.</hi> 12.48. <hi>
+                  <g ref="char:V">Ʋ</g>nto whomſoever much is given, of him ſhall bee much required; and to whom men have committed much, of him they will aske the more.</hi> Therefore whatever bleſſing through redreſs of our Evils in our Reformation ſhall be attained by Us, or advanced to Us within this State, God will not conferre it upon us, that it ſhould reſt there and lye dead as a Talent buried in the ground; but he will expect that we ſhould trade with it, and make it uſefull in his ſervice towards All for the enlargement of his Kingdome; becauſe the maine engagement which hee doth put up<g ref="char:EOLhyphen"/>on thoſe whom hee hath delivered from their Enemies, is this, namely, <hi>That they ſhould ſerve him without feare in righteouſneſſe and holi<g ref="char:EOLhyphen"/>neſſe all the dayes of their life, Luk.</hi> 1.24, 25. For if by this Reformation of our Church, State and Lives, he doth intend to convert Us unto himſelf; Hee will not doe it upon any other termes, then it was done to his Apoſtle <hi>Peter:</hi> to whom he ſaid, <hi>Tu Converſus confirma fratres, When thou art converted, strengthen thy Brethren, Luk.</hi> 22.32. So then our Obligation to the whole Body of Chriſt (for whoſe ſake God doth all things to every one) will not be ſatis<g ref="char:EOLhyphen"/>fied
+<pb n="9" facs="tcp:130554:7"/>
+by that diſcharge of our duty to the Body of this Nation; but that which in this Nation is brought home unto God by the Truth and Settlement of the Holy Profeſſion therin; muſt be according to the Rule offered up again unto him, dedicated unto his ſervice, and applyed unto the uſe for which he hath beſtowed it up<g ref="char:EOLhyphen"/>on Us; elſe wee ſhall rob him of the fruit of all theſe bleſſings, and deſerve to be deprived of the ſame: For God dealeth with a whole Na<g ref="char:EOLhyphen"/>tion in reſpect of his Kingdom, as he doth with a ſingle Man: Hee doth not give to any parti<g ref="char:EOLhyphen"/>cular man the gifts of his Spirit for himſelf a<g ref="char:EOLhyphen"/>lone, but he giveth them, as the Apoſtle ſaith, <hi>To profit withall, that he ſhould miniſter the ſame unto others, as a Steward of his Grace:</hi> even ſo wee muſt judge of the Nationall bleſſings be<g ref="char:EOLhyphen"/>ſtowed upon Us in the hand of the Parliament; that Gods undoubted meaning is not that wee ſhould ingroſſe his gifts as our own, peculiar to our ſelves alone but that wee ſhould become faithfull Stewards thereof for the Univerſall Kingdome of his Son, that it may be propaga<g ref="char:EOLhyphen"/>ted, and for the generall Communion of his Saints, that it may be entertained.</p>
+            <p>It will be therefore the Wiſdome of Us all,
+<pb n="10" facs="tcp:130554:8"/>
+that make Conſcience of our wayes, both in the Parliament, and in the whole Nation (whether we have taken the National Covenant or not) to lay this Truth to heart, That the onely ground of all Our Standing and proſperity is this, even Our Publike Intereſt in Chriſts Uni<g ref="char:EOLhyphen"/>verſall and Communicative Kingdom; and that by this Intereſt we are bound to raiſe Our Re<g ref="char:EOLunhyphen"/>ſolutions to ſome Duties of a larger extent then thoſe are, which the ſolemne League and Covenant doth require of Us. Theſe indeed muſt needs be done, but theſe other of a larger extent muſt not be left undone: theſe are ne<g ref="char:EOLhyphen"/>ceſſary to remove the rubbiſh of ſcandals and impediments, that the Foundations of many Generations may be laid: but theſe other are no leſs neceſſary, that the ſuperſtructures of Gold, Silver, and Precious Stones may bee erected un<g ref="char:EOLhyphen"/>to a Spirituall Tabernacle upon theſe founda<g ref="char:EOLhyphen"/>tions.</p>
+            <p>Although then ſome of Us may perhaps ſcru<g ref="char:EOLhyphen"/>ple at ſome of the particulars mentioned in the Nationall Covenant, yet it cannot be well ima<g ref="char:EOLhyphen"/>gined, that any will ſcruple to concur with his Brethren in thoſe Duties, which without all controverſie are Righteous, Holy, Harmleſſe,
+<pb n="11" facs="tcp:130554:8" rendition="simple:additions"/>
+and Acceptable, and which will work upon all the main Effect, and profitable uſe of the Cove<g ref="char:EOLhyphen"/>nant it ſelf, namely, a Real advancement of that Truth which is after Godlines; and a Confirma<g ref="char:EOLhyphen"/>tion of that Peace which is the fruit of Righte<g ref="char:EOLhyphen"/>ouſneſſe.</p>
+            <p>Now what theſe Duties are, and How they may be performed, <gap reason="illegible: overwritten" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſuppoſe will be a part of our duty to ſeek out, to diſcover and propoſe, that ſuch of Us as are capable of thoughts rai<g ref="char:EOLhyphen"/>ſed above our ſelves, and can diſcerne a Con<g ref="char:EOLhyphen"/>cernment more Publike then what the Vulgar doth apprehend, may have occaſion to ſtirre up within Our hearts ſuch faithfull and dutifull reſolutions as will anſwer and come up to the main engagements which God hath laid upon Us: and to the end alſo, that the wiſdome of this Parliament may ſee the offer of a Peaceable O<g ref="char:EOLhyphen"/>verture and Motion made, whereby all thoſe that are under their power, of what degree and quality ſoever, may be addreſſed, directed, and employed to ſerve the Publike Good, by all their uſeful gifts, without ſcruple to themſelves or diſturbance to any, although in ſome parti<g ref="char:EOLhyphen"/>culars their ſtrain may be different from others who walk up more exactly equal to the Solemn Nationall Engagement.</p>
+            <p>
+               <pb n="12" facs="tcp:130554:9"/>To ſpeak then cleerly of this Matter, We muſt propoſe diſtinctly that which We have already intimated more then once, namely, That the main Duty comprehending the whole engage<g ref="char:EOLhyphen"/>ment, whereunto by all theſe bleſſings God hath called Us beyond the tye of our Nationall Covenanted Reformation, is this: That wee ſhould Study to make our Talents ſerviceable unto his Glory, by the advancement of his Uni<g ref="char:EOLhyphen"/>verſall Kingdome, and of the Generall Com<g ref="char:EOLhyphen"/>munion of his Saints. And the Principles from which this Truth doth evidently flow, are theſe.</p>
+            <p n="1">1. The Duty whereunto God by his gifts doth chiefly enable every one of Vs, is that Duty whereunto he doth mainly call Vs: but the gifts Spiritually and Temporally beſtowed upon Us, by this ſucceſſe of our Affaires doe chiefly inable Vs to the Advancement of his Vniverſall Kingdom, and of the Generall Com<g ref="char:EOLhyphen"/>munion of his Saints. Therefore this is the Duty whereunto we are mainly called.</p>
+            <p n="2">2. The Duty wherby God is moſt eminent<g ref="char:EOLhyphen"/>ly glorified, is that whereof the performance is mainly required, and to which wee are chiefly engaged, But God an be glorified in nothing
+<pb n="13" facs="tcp:130554:9"/>
+by Vs ſo much, as in the Advancement of his Vniverſall Kingdom, and of the generally Com<g ref="char:EOLhyphen"/>munion of his Saint,: Therefore nothing but this is mainely required of Us, and nothing but this will anſwer fully the high Engagement whereby wee are bound to ſerve him.</p>
+            <p n="3">3. The Duty which being performed will ſettle and increaſe our preſent, and continue to Poſterity our future Happines; and therin raiſe the glory of this Nation above our Neighbors; is that Duty, which ſhould be Mainly and Na<g ref="char:EOLhyphen"/>tionally intended and proſecuted by Vs more then by our Neighbours. But this is the Duty which will, and nothing but the performance therof wil (by the Advancement of Gods Glo<g ref="char:EOLhyphen"/>ry amongſt Us) doe all this unto Vs above our Neighbors: Therefore this is the Duty which ſhould be mainly proſecuted by Vs.</p>
+            <p>And leaſt any might make a doubt of this laſt Poſition, let Vs a little enlarge our ſelves thereon, to make it more apparent from the Vndoubted Maximes and Reaſons of a true Reformed Chriſtian State, ſuch as we are now called to be, if we take notice of our condition.</p>
+            <p>Firſt then We conceive that the Glory and
+<pb n="14" facs="tcp:130554:10"/>
+Happineſs of a State go hand in hand together; ſo that every thing which may adde unto the true Glory, is alſo fit to increaſe the Happineſs, <hi>&amp; vice verſa,</hi> on the other ſide, whatſoever doth adde unto the true Happineſſe, is alſo Fit to increaſe the Glory of a State.</p>
+            <p>Secondly, we conceive that no Happines can be counted true, which is not ſetled; and that no Happines can be counted ſetled to a Nation that is not, or cannot bee dilated unto all the Members thereof, and continued in after times unto their Poſterity.</p>
+            <p>Thirdly, that neither true Glory nor Hap<g ref="char:EOLhyphen"/>pines can befal to any People or State without the Goſpel and Kingdome of Chriſt.</p>
+            <p>Fourthly, that the Wayes and Meanes by which the Kingdome of our God, and the Goſ<g ref="char:EOLhyphen"/>pel of Jeſus Chriſt (which are inſeparable) is advanced moſt really unto all, and in al reſpects unto every one; are the onely fitteſt to ſettle true Happines and the Glory of a Nation.</p>
+            <p>Fiftly, that the Goſpel and Kingdom of our God cannot be really advanced unto all, and in all reſpects unto every one, except it be advan<g ref="char:EOLhyphen"/>ced purely for it ſelf; and all other things made ſubordinate to it.</p>
+            <p>
+               <pb n="15" facs="tcp:130554:10"/>Sixtly, that if it bee thus advanced indeed, without any particular mixture of wordly State ends; then we may be ſure that Chriſt wil reigne in that State; and that God will be truly glorified in it, becauſe he can be no where glo<g ref="char:EOLhyphen"/>rified, but where his Son doth reigne, and if hee be glorified in it, we may be alſo ſure, that hee wil glorifie it in himſelf, by his comlineſs, which he will put upon it. For all the promiſes made unto his peculiar People will bee made good unto it. The Peace therefore ſhall bee <hi>extended as a mighty river; the Righteouſneſſe thereof ſhall goe before it; and the glory of the Lord ſhall bee a rereward unto it.</hi>
+            </p>
+            <p>To conclude then in a Word, the whole Hap<g ref="char:EOLhyphen"/>pines and the Glory of this State will depend upon the Wiſdome and the Piety of this great Parliament in diſcharging this great Duty: The large Means which he hath put into our hands doe inable Us hereunto, the high Aime of his Glory doth require this ſervice of Us; and therefore this will be the main and bleſſed re<g ref="char:EOLhyphen"/>ſult of our Nationall Reformation and Settle<g ref="char:EOLhyphen"/>ment according to the Covenant. For as it can<g ref="char:EOLhyphen"/>not be imagined, that a houſe can bee raiſed to laſt without a foundation, ſo nothing can be in
+<pb n="16" facs="tcp:130554:11"/>
+this kind really attempted by Us towards all, except firſt within Our ſelves, the Fundamen<g ref="char:EOLhyphen"/>tall Part of the Reformation, which is in hand, be in ſome competent Meaſure eſtabliſhed for which cauſe before We proceed unto Particu<g ref="char:EOLhyphen"/>lars, We muſt once for all premiſe this, that no<g ref="char:EOLunhyphen"/>thing in the ſequel of this diſcourſe is inten<g ref="char:EOLhyphen"/>ded or propoſed otherwiſe, then as it is conſi<g ref="char:EOLhyphen"/>ſtent with, and a ſequel of our Nationall and Domeſticall grounds of Reformation.</p>
+            <p>Now then to fall from theſe Generals, unto ſuch particulars as may ſhew Us the Way by which the propagation of Gods Glory in his Univerſall Kingdom, and in the General Com<g ref="char:EOLhyphen"/>munion of his Saints, may redound unto the conſtant enlargement and continuance of his bleſſings over this Nation wee ſhall reflect as briefly as may be upon theſe Heads.</p>
+            <p n="1">1. What is meant by the Univerſall King<g ref="char:EOLhyphen"/>dom of God, and by the Generall Communion of his Saints?</p>
+            <p n="2">2. What the Particular Duties are whereby Gods Glory is to be Advanced in this Univer<g ref="char:EOLhyphen"/>ſall Kingdom and Generall Communion?</p>
+            <p n="3">3. What the Meanes are, by which God hath inabled our Leaders, and called them to the performance of theſe Duties?</p>
+            <p n="4">
+               <pb n="17" facs="tcp:130554:11"/>4. And laſtly, what the Way and Method of proceeding may be, to make Uſe of theſe Meanes, for the accompliſhment of the Workes whereunto the Duties doe oblige Us? Which Way wil end in an Office of Addreſs, of whoſe Method and Uſefulneſs is finally to be ſpoken.</p>
+            <div type="part">
+               <head>Of the Firſt.</head>
+               <p>BY the Univerſall Kingdome of God, is to be underſtood that Adminiſtration of his Power, of his Juſtice, and of all his Good Gifts towards Mankind; whereby all men may bee made ſenſible of his Soveraignity and Provi<g ref="char:EOLhyphen"/>dence over them: and ſo wrought upon, to de<g ref="char:EOLhyphen"/>pend upon him, by his Outward Ordinances both Temporall annd Spirituall, as to fear him, to love him, and to give themſelves up to be di<g ref="char:EOLhyphen"/>rected by him, for to reap comfort to them<g ref="char:EOLhyphen"/>ſelves, and to increaſe the good of Humane So<g ref="char:EOLhyphen"/>ciety.</p>
+               <p>The Advancement of this Kingdome is the proper ſphere of a Chriſtian Reformed Magi<g ref="char:EOLhyphen"/>ſtrate: Firſt, as he is Gods Vicegerent over men, as they are in the condition of nature, and In<g ref="char:EOLhyphen"/>habitants of the world. Secondly, as hee is a
+<pb n="18" facs="tcp:130554:12"/>
+Nurſing Father to the Church within his do<g ref="char:EOLhyphen"/>minions; to protect it, and provide for it all Outward Helps &amp; Comforts. For his Relation to the World is under God to be their Leader in the things which may ſettle their Society in Righteouſneſſe and Love, that every one may be Uſefull to his Neighbour by his abilities. And his Relation to the Saints is to bee their Brother and Fellow-ſervant in the Kingdome of Chriſt for the Glory of God their Common Father in Him.</p>
+               <p>By the Communion of Saints, which is called Generall, is underſtood the adminiſtration of Grace through that entercourſe of Love and Care for mutuall good in Spirituall and Tem<g ref="char:EOLhyphen"/>porall things which ought to bee amongſt the Members of Chriſts Body viſible, that every one may reap the fruit of other gifts freely for his edification in knowledge and in vertue; and that all <hi>receiving each other to the Glory of Chriſt, even as Chriſt received <g ref="char:V">Ʋ</g>s unto the Glory of his Father,</hi> the common Burdens of all may be borne by every one, and the common Ene<g ref="char:EOLhyphen"/>mies of all, oppoſed by the joint ſtrength of the whole Body at once.</p>
+               <p>To entertain this Communion is the proper
+<pb n="19" facs="tcp:130554:12"/>
+work of faithfull Miniſters of the Goſpel, who walking before others according to the Rule of the New-Creature without partiality deny themſelves; and holding forth the word of Life unto all, labour without prejudice to provoke every one unto Love and to good Workes without giving offence unto any.</p>
+               <p>So then by theſe Two States whereof the one relates the Outward, the other the Inward man directly; yet neither ſeparate in their rela<g ref="char:EOLhyphen"/>tions from the other; all the Glory of Gods goodneſſe is by certain degrees to be advanced to ſuch as are capable therof. The Apoſtle ſaith, <hi>That which is Naturall is firſt, and then afterward that which is Spirituall;</hi> therfore the Magiſtrates Adminiſtration in the firſt place is to bee orde<g ref="char:EOLhyphen"/>red for the Outward Things of this life, and firſt to the Naturall and then towards the Spi<g ref="char:EOLhyphen"/>rituall Man, and afterward in the Second place the Miniſters Adminiſtration for Spirituall Things is to be ordered, firſt towards thoſe that are at home, and within the Houſhold of Faith, and then alſo towards others, that are abroad and without the ſame.</p>
+            </div>
+            <div type="part">
+               <pb n="20" facs="tcp:130554:13"/>
+               <head>Of the Second.</head>
+               <p>IN the next place the particular Duties wher<g ref="char:EOLhyphen"/>by theſe Aimes in each State may bee gained, come into Conſideration, We ſhall onely name them to ſhew the Order wherein they ſhould be ranked in the thoughts of thoſe that are a<g ref="char:EOLhyphen"/>bout to ſettle a wel-reformed State, and to diſ<g ref="char:EOLhyphen"/>cover the Perfections which in their Order they will adde unto the Happineſſe of our in<g ref="char:EOLhyphen"/>tended Reformation, if they be carefully atten<g ref="char:EOLhyphen"/>ded.</p>
+               <p>Now as both States by their Aimes anſwer the Manifeſtation of Gods Glory, ſo by their Duties they anſwer and reach at their Aimes; and as their Aimes in their direct relations to<g ref="char:EOLhyphen"/>wards their proper Objects are diſtinct from each other, and yet in their Collaterall reſpects are not ſeparate but ſtand United together, ſo their Duties are in ſome things ſeverall and di<g ref="char:EOLhyphen"/>ſtinct, and in ſome things to bee united and jointly performed, though each doth act in his owne Sphere differently.</p>
+               <p>The State then of the Magiſtrate as a Magi<g ref="char:EOLhyphen"/>ſtrate doth bear the ſword of Juſtice to execute wrath upon evill doers, which ſinne againſt the
+<pb n="21" facs="tcp:130554:13"/>
+Lawes and Light of Nature: and he beareth the Scepter of Authority to reward and encourage thoſe that doe well according to the ſame light and lawes.</p>
+               <p>And if hee doth underſtand that his Calling doth bind him not onely to reſiſt and baniſh evill out of the Common-wealth, but in it to further and maintain all that is good: then his Care and Duty ſhould bee not onely to rule Men, ſo as he doth finde them, but hee ſhould looke upon their wayes, to order them, ſo as they ſhould be, to become partakers of that Happineſſe which this life doth affoord, wher<g ref="char:EOLhyphen"/>unto he is bound to give them addreſſe.</p>
+               <p>His Duty then is to look unto all, as well to the direction of the Young ones, as of thoſe that are of Age, both in reſpect of their Civill and of their Religious Publick walking.</p>
+               <p>His Duty towards the Young ones; it is to Order the Meanes of their Education aright, to which effect he ſhould ſee Schools opened, pro<g ref="char:EOLhyphen"/>vided with Teachers, endued with Mainte<g ref="char:EOLhyphen"/>nance, regulated with Conſtitutions, and hee ſhould have Inſpectors and Overſeers to looke to the obſervance of good Orders in this buſi<g ref="char:EOLhyphen"/>neſſe. The Schools ſhould be of Foure ſeverall
+<pb n="22" facs="tcp:130554:14"/>
+Kinds or Degrees. The Firſt for the Vulgar, whoſe life is to be Mechanicall. The Second for the Gentry and Nobles, who are to beare Char<g ref="char:EOLhyphen"/>ges in the Commonwealth. The Third for Scho<g ref="char:EOLhyphen"/>lars, who are to teach others Humane Arts and Sciences. And the Fourth for the ſons of the Prophets, who are a Seminary of the Miniſtery. And the right Ordering of theſe Schooles is to bee lookt upon as the Maine Foundation of a Reformed-Common-wealth, without which no other work of Reformation will ever bee effe<g ref="char:EOLhyphen"/>ctuall.</p>
+               <p>His Duty towards thoſe that are of Age is to ſee that none who have ſtrength and abili<g ref="char:EOLhyphen"/>ties for employment, be without ſome profita<g ref="char:EOLhyphen"/>ble Worke, and none that want ſtrength and abilities to work for themſelves, bee without neceſſary relief.</p>
+               <p>And to fulfill this part of his Duty, all Vul<g ref="char:EOLhyphen"/>gar Trades belonging to Husbandry, to Manu<g ref="char:EOLhyphen"/>factures, to Merchandize and Commerce by Sea or Land in the ſeverall kindes of Uſefull Com<g ref="char:EOLhyphen"/>modities; or employments about Commodities and all Honorable Offices and Charges belon<g ref="char:EOLhyphen"/>ging to the Common-wealth in Generall, or to any part of it in Country and City in Particu<g ref="char:EOLhyphen"/>lar;
+<pb n="23" facs="tcp:130554:14"/>
+are to bee ranked in their proper places: and all the Unlawfull and Unprofitable Ways whereby Men or Women get a livelihood, or ſpend their time in Idleneſs, in riot and vanity, are to be taken notice of; that ſuch Employ<g ref="char:EOLhyphen"/>ments as foment naughty Superfluities cauſing Pride and Sin to abound in a Nation, or ſuch perſons as live diſorderly, and cannot be redu<g ref="char:EOLhyphen"/>ced to any certain Employment, may be bani<g ref="char:EOLhyphen"/>ſhed the Common-wealth, Even as weeds are to be rooted up and caſt out of a fruitfull gar<g ref="char:EOLhyphen"/>den.</p>
+               <p>Then to ſuch as are not able, for Age or otherwiſe to entertaine any Employment, if they be poore, relief is due unto them; and the Rules by which Hoſpitalls are to bee ordered aright, will be of ſingular Uſe in the Reforma<g ref="char:EOLhyphen"/>tion of this State.</p>
+               <p>The Duty of the Magiſtrate towards the Religious Converſation of his Subjects, is in this: That open Contempt of Religion and Profaneneſſe be reſtrained, That the Publike Miniſtery be Protected from injury, Preſerved from contempt, and Maintained comfortably; and that a juſt Liberty of Conſcionable Pro<g ref="char:EOLhyphen"/>feſſion be not denyed to ſuch as walke orderly
+<pb n="24" facs="tcp:130554:15"/>
+in the things wherein they differ from others about Religion.</p>
+               <p>Here then ſome Wayes of Conference and Rules of Vnblamable behaviour are to bee de<g ref="char:EOLhyphen"/>termined and authorized, for the preſervation of Love, and of the Unity of the Spirit; and for the avoiding of endleſſe and quarrelling Diſ<g ref="char:EOLhyphen"/>putes.</p>
+               <p>The Duties whereby the Generall Commu<g ref="char:EOLhyphen"/>nion of Saints is to bee entertained, belonging to the Charge of Miniſtery more particularly, are either ſuch as relate the Society of Mini<g ref="char:EOLhyphen"/>ſters amongſt themſelves, or ſuch as relate all other Profeſſors, or ſuch as relate the ſtate of the Goſpel abroad.</p>
+               <p>Towards their fellow-Miniſters their Duty is to ſtand united in Love, and to walk by Con<g ref="char:EOLhyphen"/>junction of Counſels in matters of Miniſteriall Concernment; and to that effect to keep the times of appointed Meetings for Mutuall Edi<g ref="char:EOLhyphen"/>fication in the charge of Gods Houſe.</p>
+               <p>Towards all other Profeſſors, their Duty is, as free from all to become ſervants unto all, to gaine every one in their ſeverall degrees of growth and religious ſtanding.</p>
+               <p>Towards the State of the Goſpel in Foraine
+<pb n="25" facs="tcp:130554:15"/>
+Parts their Duty is, to liſten after the Welfare of the Churches; to lay the Common Intereſt thereof to heart; to Concurre with them in Prayers, in Counſell and Aſſiſtance for their Comfort; and to this effect, upon informations received from abroad, to Contribute the fruit of all their abilities, as ſhall bee expedient or neceſſary for the Common Cauſe of Religion, to maintain the Peace and Proſperity thereof.</p>
+               <p>Theſe are the Heads of Duties wherby each State ſhould attend his own charge, and reach his proper Aime by himſelf; there be Objects of concurrence in Duties wherein both States ſhould Conſult and Co-operate jointly for mu<g ref="char:EOLhyphen"/>tuall aſſiſtance in things which cannot bee well effected by either apart. Thoſe are,</p>
+               <p n="1">1 The Reforming, Ordering and Conſtitu<g ref="char:EOLhyphen"/>ting of Schooles.</p>
+               <p n="2">2 The ſetling of Courſes to Prevent or Re<g ref="char:EOLhyphen"/>medy Publike Scandals and diſturbances of the Peace in matters of Religious Concernments.</p>
+               <p n="3">3 The maintaining of the Liberties which are void of offence in ſuch as differ and walke orderly for Edification.</p>
+               <p n="4">4 The Advancement of Publike Helpes to Knowledge, and encouragements to Vertue to<g ref="char:EOLhyphen"/>wards
+<pb n="26" facs="tcp:130554:16"/>
+thoſe that are within the Kingdome.</p>
+               <p n="5">5 The Propagation of the Goſpel towards thoſe that are without, and void of the know<g ref="char:EOLhyphen"/>ledge of Chriſt, as Jewes, Turks, and Heathens.</p>
+               <p n="6">6 The Entertaining of Brotherly Correſpon<g ref="char:EOLhyphen"/>dency, Intelligence and Commerce with Neighbour-Churches, to trade in Spirituall Matters with them; for the Enlargement of Chriſts Kingdome, and the ſupport of his Truth againſt the Enemies thereof.</p>
+            </div>
+            <div type="part">
+               <head>Of the Third.</head>
+               <p>THe Third Thing to bee opened in this Matter is to ſhew, that as the Aime of the Magiſtracy and Miniſtery in their ſeverall Spheres, doth oblige them to intend the per<g ref="char:EOLhyphen"/>formance of theſe Duties in order to the Mani<g ref="char:EOLhyphen"/>feſtation of Gods Glory; ſo all the Meanes whereby they are inabled to effect the work it ſelf are in their hands; ſo that nothing is wan<g ref="char:EOLhyphen"/>ting but the Actual Contrivance of the Courſe, which may be followed in applying their Abi<g ref="char:EOLhyphen"/>lities unto theſe their proper Uſes. This Means is the power of the Parliament, able to ſet them<g ref="char:EOLhyphen"/>ſelves and all others in ſuch a way of Acting for
+<pb n="27" facs="tcp:130554:16"/>
+the Publike Good, as is moſt expedient for their owne Happineſſe. It is needleſſe to ſpeake of the Al-ſufficiency of Humane Abilities beſtow<g ref="char:EOLhyphen"/>ed upon this Parliament by the bleſſing of <hi>God</hi> for our Reformation. It is evident that our Leaders now fitting in it, have received from Him all Right and Supreame Authority to Or<g ref="char:EOLhyphen"/>der all things without controule within this Kingdom. This their Right and Authority is ſetled upon the Undoubted faithfulneſſe and fulneſs of Counſel, which is in their Aſſembly; and is backed with all Competency of outward Meanes and Inſtruments; to attend the execu<g ref="char:EOLhyphen"/>tion of their decrees, which this Nation is fur<g ref="char:EOLhyphen"/>niſhed withall, as much as any in the World. Nor is there any Power apparent, or in being, able to let or hinder any thing, which upon ma<g ref="char:EOLhyphen"/>ture Deliberation they ſhall determine to bee done. They are not limited to any Objects of Deliberation, but ſuch as they ſhall propoſe unto themſelves; and ſuch no doubt they will take readily into conſideration, which ſhall be offered unto them, by fit Inſtruments, and in a fit way for the beſt Ends: Therefore if theſe Objects can be but fitly inſinuated unto thoſe that are moſt Conſcionable, grave and zealous
+<pb n="28" facs="tcp:130554:17"/>
+for the Publike Good and Glory of this Nati<g ref="char:EOLhyphen"/>on, that by their Meanes others may bee ſeaſo<g ref="char:EOLhyphen"/>ned throughly with this neceſſity of Aiming at ſuch a Reformation (as being the Main Service wherunto God doth call Us at this time) and if upon ſuch an effectuall inſinuation the Way to introduce and ſettle by little and little the per<g ref="char:EOLhyphen"/>formance and execution of theſe Duties by Authority of Parliament, can be propoſed void of all exception; there is no cauſe to doubt of the ſucceſſe of this Enterpriſe in due time. All the matter of difficulty will bee in theſe Two Things: Firſt, How to make the Propoſall free from Prejudice, and from the reſpects of Hu<g ref="char:EOLhyphen"/>mane Partiality. And Secondly, How to bring the Way of Deliberating upon theſe matters in the Houſes; into a juſt frame and courſe, which may at fit ſeaſons and intervalls be con<g ref="char:EOLhyphen"/>tinued and renewed to carry on the Deſigne with that ſtedfaſtneſſe which the importance of the Worke deſerveth. And truly whether we look upon God, or upon the Work, or upon our Unſetled Condition, or upon the Parlia<g ref="char:EOLhyphen"/>ment and the Power and Abilities in it, which are under God to be the Meanes of our Happy Settlement, there can be nothing conceived or
+<pb n="29" facs="tcp:130554:17"/>
+propoſed of greater importance, and more be<g ref="char:EOLhyphen"/>fitting the thoughts of Wiſe and Conſcionable Men in Parliament, then the Determination of theſe Duties. If therefore any reſpect either to God, or to Our ſelves, or to Poſterity, can raiſe Mens thoughts above Particular and Pri<g ref="char:EOLhyphen"/>vate Intereſts, to minde the ſettlement of a Publike Good, in a Way which is unblamable, the worth of theſe Duties, and the obligation whereby God doth engage Us all, but chiefly our Leaders to deſire the fulfilling of them, ſhould raiſe both their and our thoughts to the entertaining of ſuch deliberations, Cer<g ref="char:EOLhyphen"/>tainly Gods Aime in beſtowing upon Us this Parliament, and upon the Parliament all Power and Ability to Act whatever it will in the King<g ref="char:EOLhyphen"/>dom, is none other then this, to make them and Us, under Himſelf Inſtrumentall in Our owne Felicity, by ſerving him in his Kingdom: but if we ſhould not care to minde the ſettlement of his Kingdome amongſt Us, are we not unwor<g ref="char:EOLhyphen"/>thy of all theſe bleſſings? And ſhal they not be taken from Us deſervedly? if wee ſerve our ſelves only; or a particular Party of Men which wee affect; with our Intereſt in the Publike Power; and if we make Uſe of the Means which
+<pb n="30" facs="tcp:130554:18"/>
+we are intruſted withall, and ſet our thoughts onely to finde Wayes thereby to make Our ſelves and Our Party great; we ſhall be found in the day of Accounts Unfaithfull Stewards, and naughty Servants to ſo good a Lord and Ma<g ref="char:EOLhyphen"/>ſter: For it is moſt Undeniably apparent, that theſe fore-mentioned Duties are the true and proper Workes of his ſervice whereunto wee are called: and the onely Meanes to deliver Us from the danger of our Confuſions, will bee to Deliberate maturely of the performance ther<g ref="char:EOLhyphen"/>of. Therefore as <hi>Mordecai</hi> ſaid to <hi>Eſter</hi> in ano<g ref="char:EOLhyphen"/>ther caſe, ſo we may ſay with a ſmall charge of the expreſſion, to thoſe that fit in Parliament, He ſaid to her, <hi>And who knoweth whether thou art come to the Kingdome for ſuch a time as this?</hi> But we muſt ſay to Our Senators, And Who knoweth not, that the Kingdome is come unto You for ſuch a Work as this? Therefore You are bound to mind it, and uſe Meanes to ad<g ref="char:EOLhyphen"/>vance it; and if You will not, know neverthe<g ref="char:EOLhyphen"/>leſſe that this diſpenſation is committed unto You; and that God will find ſome others to do this Work without You; but that You and the People which is led out of this Way, will cer<g ref="char:EOLhyphen"/>tainly be deſtroyed. But wee will cheerfully
+<pb n="31" facs="tcp:130554:18"/>
+Hope, and by the Grace of God confidently Expect that upon a more full diſcovery and faithfull Inſinuation of the Way How to proceed in the proſecution of this Enterprize: there will bee ho neglect in the Undertaking, nor impediment in the execution. Let Us then proceed to the Fourth and Laſt Point in hand, to ſhew How the Parliament ſhould apply their Authority, Counſell and Abilities, to the ac<g ref="char:EOLhyphen"/>compliſhment of theſe Duties; and this we ſhal intend to doe (if God permit) by ſhewing the true Contrivement, the right Uſe, and the In<g ref="char:EOLhyphen"/>credible Advantages and Benefits of an Office of Publike Addreſſe, which may be eaſily and without delay erected and ſet afoot among Us.</p>
+            </div>
+            <div type="part">
+               <head>Of the Fourth.</head>
+               <p>THe Honourable Houſe of Parliament are the Great Committee of the whole King<g ref="char:EOLhyphen"/>dom for the Univerſall Reformation ther<g ref="char:EOLhyphen"/>of: and by the Deputation of Power given to them in their Members, from every part of the Kingdom, the whole Power of all is contracted in their Body, as in the Headſhip of the Nati<g ref="char:EOLhyphen"/>on; for Counſell and Juſtice, and from thence
+<pb n="32" facs="tcp:130554:19"/>
+all Power hath again an influence upon every part of the Kingdome as need required. Now by vertue of this Supremacy or Power ſummed up in them, and in reference to the neceſſity of things to bee done under them; they have a right to confer Power, and make Deputations of Authority unto others to Act for a Refor<g ref="char:EOLhyphen"/>mation, ſo as by them they ſhal be directed: nor is it lawfull for any without leave and commiſ<g ref="char:EOLhyphen"/>ſion from them, to act towards a Reformation in a Publike Way; ſo that properly the Worke of Reformation is radically ſeated in the Body of the Houſes, and no Committee can bee with any juſt title termed a Committee for Refor<g ref="char:EOLhyphen"/>mation, but the Houſes themſelves, becauſe none have any right to minde and act a Refor<g ref="char:EOLhyphen"/>mation in the Generall but They. Yet this not<g ref="char:EOLhyphen"/>withſtanding it is Lawful no doubt for all Men to entertaine the thoughts and wiſhes of a Ge<g ref="char:EOLhyphen"/>nerall Reformation; and would to God every one in his place were acting ſomething, as a pre<g ref="char:EOLhyphen"/>parative towards it, more then ſeemes to be intended. If then it ſhould be moved, that the Houſes would depute ſome of their Mem<g ref="char:EOLhyphen"/>bers (without excluding any from partaking of the ſame cares) to mind not ſo much a particu<g ref="char:EOLhyphen"/>lar
+<pb n="33" facs="tcp:130554:19"/>
+Taske in the Work of Reformation (which is Ordinary in the appointment of all Commit<g ref="char:EOLhyphen"/>tees) as to ſeek out the Generall Rules and Ma<g ref="char:EOLhyphen"/>ximes by which the Courſe of a ſetled Refor<g ref="char:EOLhyphen"/>mation ſhould be ſteered &amp; guided at all times: that thoſe Maximes might be propoſed and de<g ref="char:EOLhyphen"/>bated in the Houſes, and laid as Grounds of the Righteous Wayes by which all their Govern<g ref="char:EOLhyphen"/>ment is to be eſtabliſhed under God: I ſuppoſe it would bee a great advantage both to their proceedings in Counſel, and to the direction of all ſuch as being ſubordinate unto their Power, deſire to act knowingly according to their juſt intentions. For the Main Fundamentall Rules of all juſt proceedings once being ſetled and received; not only the Subordinate Agents, but the Senators themſelves in doubtfull Caſes of Advice, will be therby able to find Light what to reſolve upon; and in dark matters of Judge<g ref="char:EOLhyphen"/>ment they will be directed thereby, What Sen<g ref="char:EOLhyphen"/>tence to give Conſcionably according to their own Uncontroulable Principles.</p>
+               <p>This Committee for Rules of Reformation ſhould have power, and be ordered to call unto them for Conſultation the moſt Learned, God<g ref="char:EOLhyphen"/>ly, and Experienced Divines of the Kingdome;
+<pb n="34" facs="tcp:130554:20"/>
+whether in or out of the Aſſembly; to put them upon the thoughts of Reſolving ſuch Queries and Doubts from the Word of God and cleer Principles of Reaſon, as they ſhall think fit to propoſe unto them for the framing of thoſe Maximes of Reformation, which they ſhall prepare to be propoſed unto the Houſes; to be upon debate received, as Univerſall Rules to walk by, in the purſuit of ſuch an Evangelicall Settlement and Reformation as wee ſhould now aime at.</p>
+               <p>And although Men be never ſo able in Parts, never ſo much read in all Authors, never ſo deeply grounded in all Sciences, never ſo large<g ref="char:EOLhyphen"/>ly experienced in all Affairs, and never ſo much ſeen in all the World, and conſequently every way as much qualified as men can be for a work of ſuch high Conſequence as this will be to this State; yet except they have ſome helps to ena<g ref="char:EOLhyphen"/>ble them, to look upon Matters neer at hand, &amp; with ſome ſpeciall relation to the changes of Times, Things, Perſons, and Occaſions, where<g ref="char:EOLhyphen"/>unto their endeavours are to be applyed (that they may diſcern the native properties thereof by all Circumſtances diſcoverable) they wil be but like Phyſitians, who without regard to the
+<pb n="35" facs="tcp:130554:20" rendition="simple:additions"/>
+particular Symptomes of their Patient, pre<g ref="char:EOLhyphen"/>ſcribe a generall Remedy for the diſeaſe, which ſeldome is effectuall to work a good or ſpeedy Cure; and if it doth any good, it is to be aſcri<g ref="char:EOLhyphen"/>bed rather to chance then wiſdome. For the Theoretical part of general Rules may by Men of abilities bee delivered at large, but to make theſe Practically appliable for the Main End of an Effectuall Reformation unto a State that is lyable (as all States are) unto perpetuall chan<g ref="char:EOLhyphen"/>ges, is the Matter, which the Wiſdome of this Committee ſhould mainly apply themſelves unto, which neceſſarily requires a ſpeciall In<g ref="char:EOLhyphen"/>ſight and Diſcovery of Affaires neer at hand. Therefore if to theſe Men, and to all others of the Parliament that deſire to looke fully and fundamentally into the Affaires of this King<g ref="char:EOLhyphen"/>dom, and of this Church in al the Members and Motions therof, and into the Affairs of Neigh<g ref="char:EOLhyphen"/>bour Churches and States as they may relate towards theſe, to be able to Compare and lay things together: (If I ſay, to theſe Men) a Help can be given whereby they ſhall be inabled to look not onely upon the Outward Parts, but as it were, upon the very Anatomy of all the in<g ref="char:EOLhyphen"/>ward bowels of the Church and State as they
+<pb n="36" facs="tcp:130554:21" rendition="simple:additions"/>
+are at all times, and from time to time exiſtent, in their native features and lineaments, and up<g ref="char:EOLhyphen"/>on all the Vitall Motions and Actions of theſe Parts and Bowels; If <gap reason="illegible: overwritten" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſay againe, an eaſie Help can be found for ſuch a diſcovery, wil it not be an exceeding great advantage to them to open their eyes in al Counſels and Reſolutions? Cer<g ref="char:EOLhyphen"/>tainly it will; and ſuch as ſhall have this inſight in matters, will bee able upon all occaſions to walke, as it were, at noon day in the light, when others will be conſtrained to doe things but at randome, and grope in difficult Caſes, as it were for the wall at midnight. Now this helpe may be had in an Office of Spirituall and Temporall Addreſſes, whereunto all Men for their own Convenience, Advantage and Profit, will bee made willing, and invited to repaire as to a Common Center of Repoſe where<g ref="char:EOLhyphen"/>in they may expect ſatisfaction for all their Lawfull deſires, ſo much as may be had by any Humane Contrivance in a wel-ordered Com<g ref="char:EOLhyphen"/>mon-wealth.</p>
+               <p>And to make this apparent that an Office may be erected to this effect, which may bee of Infinite Uſefulneſs to the State, and eſpecially to the Work of Reformation, We ſhall ende<g ref="char:EOLhyphen"/>vour
+<pb n="37" facs="tcp:130554:21"/>
+to ſet down the Sum of it; together with the right Uſes thereof; and the Way by which it may bee eſtabliſhed eaſily and without noiſe or delay.</p>
+            </div>
+            <div type="part">
+               <head>Of the Office of Addreſſe.</head>
+               <p>WEE would advice then that a Certaine Place ſhould be deſigned by the Autho<g ref="char:EOLhyphen"/>rity of the State, whereunto all Men might freely come to give Information of the Commodities which they have to be imparted unto others; and ſome body ſhould bee ſet in that Place to receive theſe Informations to the end that he may give addreſs to every one that ſhall repaire to him, to make enquiry for ſuch Commodities, Where and How to finde the ſame. His proper Charge then and Duty ſhould bee to inable himſelfe to direct all men to the attainment of ſuch deſirable things, as the Soci<g ref="char:EOLhyphen"/>ety of Mankind in the Common-wealth where he lives can comfortably yeeld unto them: ſo that this Office ſhould bee erected properly for the Relief of Humane Neceſſities; and to ac<g ref="char:EOLhyphen"/>compliſh the effect of a wel-ordered Society; that all things which are Uſefull and profitable
+<pb n="38" facs="tcp:130554:22"/>
+in a Common-wealth for Publick and Private Accommodation, &amp; the Contentation of Soul or Body, being known where they are to bee found, ſuch as ſtand in need therof may know whither to repair to get ſpeedy notice therof, how to come by them lawfully. As for example: A man of good parts would fain ſerve a Maſter, Hee comes to the Office and enquires whether it knows of any Gentleman that deſires a Ser<g ref="char:EOLhyphen"/>vant; if the Regiſter of the Office can tell him of any, he gives him Addreſſe where to find him: if he can tell him of none, then he ſhould leave his name to be Regiſtred with a Memoriall ex<g ref="char:EOLhyphen"/>preſſing his deſire, and the place of his abode, and ſuch other Circumſtances as he ſhall thinke fit to inform the Office of, that as ſoon as any doth inquire for a Man of his quality, hee may be directed to him. In the like manner a Gen<g ref="char:EOLhyphen"/>tleman deſires a ſervant of ſuch and ſuch qua<g ref="char:EOLhyphen"/>lities, hee comes to the Office to inquire after one, and the Maſter of Addreſſes ſhould be able to tell him whether or no, and where any is to be found: and in caſe none is to bee found or known at that preſent, then the Gentleman leaves a Memoriall to bee kept for an Addreſſe to any that may afterward preſent himſelfe.
+<pb n="39" facs="tcp:130554:22"/>
+And when theſe that have made enquiry for ſome Commodity have gotten it by the Ad<g ref="char:EOLhyphen"/>dreſſe of the Office, they ſhould bee obliged within the ſpace of 24 houres to give notice thereof unto the Office; that the Regiſter may be disburdened of their Memoriall, leſt ſome body be addreſſed in vaine unto them. Suppoſe a Man would let out his houſe or his ground at a certain rent, or ſell it, another would faine take a houſe or parcell of ground for rent, or buy it; both theſe run up and down, and make enquirie here and there at adventures for that which they want, and perhaps never light one upon another, till the convenient ſeaſon bee paſt, and they for want of Accommodation have taken ſome courſes leſſe advantageous for their Affaires, then their mutuall encounter would have been; but if the Maſter of Addreſſe had been informed of both their deſires, hee would have inſtantly directed the one of them to the other, by which meanes both would have been accommodated. And thus in all other Caſes Whatſoever, which fal within the Com<g ref="char:EOLhyphen"/>paſſe of Humane Conveniences, which the So<g ref="char:EOLhyphen"/>ciety of Men in a Common-wealth can affoord for Contentation of the mind in Spirituall or
+<pb n="40" facs="tcp:130554:23" rendition="simple:additions"/>
+Bodily Concernments. From whence we may ſee that ſuch an Office wil be the onely Proper Remedy and Help to that diſorderly and con<g ref="char:EOLhyphen"/>fuſed condition of Life wherin we may lye for want of profitable Contrivements begetting ſociable encounters and communications. And if we will conſider, that nothing doth make na<g ref="char:EOLhyphen"/>ture fruitfull in all things, but the onely Ad<g ref="char:EOLhyphen"/>dreſſe of Proper Agents to their Patients to cauſe them meet ſeaſonably together; and that nothing doth cauſe Trade flouriſh in great Ci<g ref="char:EOLhyphen"/>ties, ſo much as the Uſe of Exchanges and Meeting Places, where Merchants may come together at certain times to tranſact Matters; and that without this Contrivement of Mutual Converſe, all Trade would bee ſo clogged and retarded, that it would be almoſt impoſſible to bring buſineſſes to any iſſue Conveniently and in due time: If, <gap reason="illegible: overwritten" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſay, we conſider this, we ſhall find that what Conveniency the Uſe of Ex<g ref="char:EOLhyphen"/>change-meetings doth bring to a Particular ſort of Men who are called Merchants; the ſame, and farre greater will this Office bring to the whole Society of all Men, for all their Mutuall Occaſions and Accommodations wherein they have need to incounter with one another; ſo
+<pb n="41" facs="tcp:130554:23"/>
+that this Office will be a Center of all Mens ſa<g ref="char:EOLhyphen"/>tisfactions to gaine their Intereſt in each other for mutuall help. The Advantages which Poſt-houſes and Exchange-places ſince they have been in Uſe (for of Old they were not) have brought unto thoſe that trade, and to all Mens private diſpatches are almoſt innumerable; but the Advantages, which ſuch an Office as this is, will bring to the Society of Mankind, will bee altogether innumerable; for all that which is good and deſirable in a whole Kingdome may be by this means Communicated unto any one that ſtands in need thereof; and if it is evident that the benefit of Mutuall Communication in good things is the Chief fruit of all Society; and that to facilitate the Wayes therof unto a Peo<g ref="char:EOLhyphen"/>ple, is one of the Chiefe Duties of a faithfull Magiſtrate, whereby hee may make himſelfe Powerfull, and his People Happy, whereby he may addreſſe all Men to profitable Employ<g ref="char:EOLhyphen"/>ments; and know what every ones employ<g ref="char:EOLhyphen"/>ments are, and by this Meanes be able to pre<g ref="char:EOLhyphen"/>vent and rectifie an infinite number of diſor<g ref="char:EOLhyphen"/>ders which ariſe in a State to the great diſad<g ref="char:EOLhyphen"/>vantage therof, for want of ſuch Employments as the idle People might be put to. Therfore it
+<pb n="42" facs="tcp:130554:24"/>
+belongs to none but to a ſupreame Magiſtrate to eſtabliſh ſuch an Office, and to Order it for the Proper Ends and Uſes whereunto it ſhould ſerve.</p>
+               <p>Let it then have Two Parts or Branches: the One for Bodily, the Other for Spirituall Mat<g ref="char:EOLhyphen"/>ters, and theſe ſhould have each of them a Warden or Maſter of their ſeverall Addreſſes, who ſhould be Regulated and directed in their Ways by ſuch Conſtitutions and Orders, which ſhould prevent all danger of Abuſes, and make them Unblamable and Comfortably Service<g ref="char:EOLhyphen"/>able to every one.</p>
+               <p>The Office of Bodily Addreſſes, ſhould bee appointed to Meddle with al Outward Things concerning this preſent life, for the relations of men to each other in worldly Concernments, and may be called the Addreſſe of <hi>Accommoda<g ref="char:EOLhyphen"/>tions.</hi> But the Office of Spirituall Addreſſes ſhould bee appointed to meddle with all In<g ref="char:EOLhyphen"/>ward things concerning the Soules of Men, and the Wayes whereby they may be helpfull one to another in Matters relating the ſame, which may be called, The Addreſſe of <hi>Communications.</hi> Their Main and Proper Objects of Employ<g ref="char:EOLhyphen"/>ment will bee different; but their Ends and
+<pb n="43" facs="tcp:130554:24"/>
+Wayes to doe ſervice will bee the ſame, and ſome things Collaterall to their Main Objects, will be common to both, and in theſe Collate<g ref="char:EOLhyphen"/>rall Matters, they ſhould be appointed to keep Mutuall Correſpondency with each other for the Advancement of their Publick Services.</p>
+               <p>The Office-bearer in each of theſe Offices ſhould be warranted and authorized, each in his Sphere to make Inventaries, and keep Re<g ref="char:EOLhyphen"/>giſters of all Commodities, Perſons, Employ<g ref="char:EOLhyphen"/>ments, Offices, Charges and Things which are Actually in being, and Uſefully conſiderable in the Common-wealth, and which may be a mat<g ref="char:EOLhyphen"/>ter of information to any for Addreſſe to that which hee in any kinde ſhall enquire after. Of theſe Inventaries and Regiſters ſome ſhould be Perpetuall ſtanding and the ſame; ſo farre as the things which they containe are exiſtent in the Common-wealth, but ſome other Regi<g ref="char:EOLhyphen"/>ſters and Bookes muſt bee kept of Changeable Matters alſo, wherin daily Occurrences of New Accommodations and Communications to bee imparted from one Man to another, are to bee recorded and kept for Information. Theſe Occaſionall Regiſters (for ſo they ſhould bee called) ſhould be of Two Sorts; the One Com<g ref="char:EOLhyphen"/>mon
+<pb n="44" facs="tcp:130554:25"/>
+and open to all to be lookt upon, contai<g ref="char:EOLhyphen"/>ning the Summary Intimation of that whereof Information is to be given, to ſuch as ſhall de<g ref="char:EOLhyphen"/>ſire it. The other ſecret, and reſerved for more ſpeciall Uſe, containing the particular point of that Addreſſe, which is to bee given to ſuch as ſtand in need to be informed of it.</p>
+               <p>Beſides theſe Regiſters which will admit of ſome further Subdiviſions, there muſt be Alpha<g ref="char:EOLhyphen"/>beticall Tables of the Heads of Matters; wher<g ref="char:EOLhyphen"/>of Informations are to bee given both for Ac<g ref="char:EOLhyphen"/>commodations and Communications, ſo as may be needfull, which ſhould be openly hung up in the Office-Houſe with a Reference to the Regiſter-bookes: and ſome of theſe Tables muſt be perpetual and ſtanding Unchangeably; Others muſt bee, as the Occaſionall Regiſter-bookes will be, alterable.</p>
+               <p>The Office of Addreſſe for Accommodati<g ref="char:EOLhyphen"/>ons, although it may be exceeding uſefull unto all, and can be prejudiciall to none, if he, that is intruſted therewith, wil not purpoſely abuſe his truſt; yet it will bee above all others moſt uſefull for the Poore, to help them to employ<g ref="char:EOLhyphen"/>ment, and to diſtinguiſh the Induſtrious from the Idle: and for the Supreme Magiſtracy in
+<pb n="45" facs="tcp:130554:25"/>
+all purpoſes of State, but chiefly in that of a healthfull Reformation: becauſe it may be in his hand (if he will make uſe of it) an Engine to reduce all into ſome Order which is confu<g ref="char:EOLhyphen"/>ſed; and to diſcover what the Chief Inconve<g ref="char:EOLhyphen"/>niences of the Subjects are, which are to be Re<g ref="char:EOLhyphen"/>medied, which Two Things are the Pillars of an outward Reformation. The other Particular Uſes of this Office of Accommodations, with the Way to Regulate it, to Overſee it, &amp; to Im<g ref="char:EOLhyphen"/>prove the Advantages, which it will yeeld to the State in matters of Publike Conſultation, and in Caſes of Reſolution to bee taken con<g ref="char:EOLhyphen"/>cerning Neighbour Nations in times of Peace and Warre, need not here to be mentioned di<g ref="char:EOLhyphen"/>ſtinctly. A Man of Wiſdome by that which hath been ſaid, will eaſily diſcern this, and in due time Particulars may be mentioned, when it ſhall be requiſite.</p>
+               <p>The Office of Addreſſe for Communicati<g ref="char:EOLhyphen"/>ons, is as far beyond that of Accommodations in Uſefulneſſe, as the Matters of the Mind are above thoſe of the Body. It is then to bee e<g ref="char:EOLhyphen"/>rected for Addreſſes and Informations in mat<g ref="char:EOLhyphen"/>ters of Religion, of Learning, and of all Inge<g ref="char:EOLhyphen"/>nuities, which are Objects of Contemplation
+<pb n="46" facs="tcp:130554:26"/>
+and delight unto the Mind, for their ſtrange<g ref="char:EOLhyphen"/>neſſe and uſefulneſſe unto the life of Man. The Warden of this Office ſhould be authorized to have and keep not onely all manner of Regi<g ref="char:EOLhyphen"/>ſters, Inventaries, Catalogues and Liſts con<g ref="char:EOLhyphen"/>taining the Peculiar Objects wherof he ſhould furniſh Information for Addreſſe to ſuch as ſhall deſire it (ſuch as have been mentioned heretofore, and named, <hi>Perpetuall</hi> and <hi>Occaſio<g ref="char:EOLhyphen"/>nall Regiſters</hi>) but hee ſhould bee Authorized alſo to negotiate for Spirituall Intelligence; and to maintaine a Correſpondency and Lear<g ref="char:EOLhyphen"/>ned Trade with all Men of Abilities within and without the Kingdome, about the things belonging to the Sphere of his Office; ſo that he ſhould be allowed not onely to give Infor<g ref="char:EOLhyphen"/>mation of things elſwhere to be found, (which is properly the worke of Common Addreſſes) but alſo of that, which ſhould be in his own pe<g ref="char:EOLhyphen"/>culiar Poſſeſſion and Cuſtody, which he ſhould be allowed to gather up and keep concerning all Matters of Religion, Learning and Ingenu<g ref="char:EOLhyphen"/>ities, as a peculiar Stock belonging to his Of<g ref="char:EOLhyphen"/>fice, to communicate the ſame by way of Spiri<g ref="char:EOLhyphen"/>tuall Trade and Commerce to whomſoever he ſhould think fit and expedient, onely for
+<pb n="47" facs="tcp:130554:26"/>
+the Ends wherunto his Commerce in this kind is to be directed.</p>
+               <p>Now the Ends ſhould be theſe:</p>
+               <p>Firſt, in Matters of Religion hee ſhould in<g ref="char:EOLhyphen"/>tend, 1 To Facilitate the Meanes of Recti<g ref="char:EOLhyphen"/>fying Miſtakes, and of Preventing the Increaſe of Diviſions and Diſorders about Matters of diſpute whether in Opinion or Practiſe. 2 To ſtirre up and waken the ſenſe and love of Pie<g ref="char:EOLhyphen"/>ty, of Charity, and of the profeſſion of Edify<g ref="char:EOLhyphen"/>ing Knowledge in the Minds of all Men with<g ref="char:EOLhyphen"/>out partiality.</p>
+               <p>Secondly, in Matters of Humane Sciences, the End of his Negotiation ſhould be, 1 To put in Practice the Lord <hi>Verulams</hi> Deſignati<g ref="char:EOLhyphen"/>ons, <hi>De Augmentis Scientiarum,</hi> amongſt the Learned. 2 To help to perfit M<hi rend="sup">r.</hi> 
+                  <hi>Comenius</hi> Undertakings, chiefly in the Method of Teaching, Languages, Sciences, and of Orde<g ref="char:EOLhyphen"/>ring Schooles for all Ages and Qualities of Scholars.</p>
+               <p>Thirdly, in the Matters of Ingenuity his End ſhould be to offer the moſt profitable In<g ref="char:EOLhyphen"/>ventions which he ſhould gaine, unto the be<g ref="char:EOLhyphen"/>nefit of the State, that they might he Publikely made uſe of, as the State ſhould think moſt ex<g ref="char:EOLhyphen"/>pedient.</p>
+               <p>
+                  <pb n="48" facs="tcp:130554:27"/>And that he may bee able to proceed cleer<g ref="char:EOLhyphen"/>ly and worke toward theſe Ends effectually, Certain Rules and Directions ſhould bee given him, whereby he ſhould be inſtructed and ob<g ref="char:EOLhyphen"/>liged to walke in his Calling Unpartially, and anſwerable to the Scope of Common Edi<g ref="char:EOLhyphen"/>fication. So then his Office of <hi>Communication</hi> ſhould be made a Center and Meeting-place of Advices, of Propoſalls, of Treaties and of all Manner of Intellectuall Rarities freely to bee given and received, to and from, by and for all ſuch as may think themſelves concerned to re<g ref="char:EOLhyphen"/>ceive or to give notice of the beſt Helpes and Overtures, and of the moſt Profitable Under<g ref="char:EOLhyphen"/>takings, Diſcoveries, and Occurences; wherby Godlineſſe, Truth, and Peace, and all the Ways and Means tending to the harmleſſe Advance<g ref="char:EOLhyphen"/>ment of Divine and Humane Wiſdome and Perfections may be ſet forward in Church and Common-wealth.</p>
+               <p>His way of Negotiating ſhould be free and obliging, hee ſhould make his Addreſſe to<g ref="char:EOLhyphen"/>wards all that are of eminent Parts, or of any ſingular Abilities and Straines; whether in Publike Places or not; within or without the Kingdome; to give them ſome Objects to
+<pb n="49" facs="tcp:130554:27"/>
+work upon, and exerciſe their faculties in; that the gifts of one may be provoked and ſtirred up by another, according to the difference or ſimilitude of their Straines; to the end that all Knowledge may abound in Love, and the diſcovery of one Truth may beget ano<g ref="char:EOLhyphen"/>ther. Thus Forainers may be made partakers of Domeſtick, and ſuch as are at home, of Forain Straines; that all may in their ſeverall Abilities be ſet a worke, and contribute unto the Stock of Learning, that which may be uſe<g ref="char:EOLhyphen"/>full to every one, in their ſeverall Occaſions: And amongſt all other his ſpeciall Correſpon<g ref="char:EOLhyphen"/>dency ſhould bee with the Chiefe Library-keepers of all places, whoſe proper employ<g ref="char:EOLhyphen"/>ments ſhould bee to Trade for the Advanta<g ref="char:EOLhyphen"/>ges of Learning and Learned Men in Bookes, and <hi>M. S.</hi> to whom he may apply himſelfe to become beneficiall, that ſuch as Mind the End of their employment may reciprocate with him in the way of Communication.</p>
+               <p>But to improve the fruit of this Agency, both for the Advancement of our owne Reformation, and for the Generall Advance<g ref="char:EOLhyphen"/>ment of Learning; hee ſhould bee obliged from time to time:</p>
+               <p>
+                  <pb n="50" facs="tcp:130554:28"/>Firſt, to impart the Profit of all his Pur<g ref="char:EOLhyphen"/>chaſes, and the Subſtance of all his diſcove<g ref="char:EOLhyphen"/>ries (eſpecially concerning Religion, and State or Church Government) unto the Committee for Rules of Reformation; whoſe Wiſdome ſhould direct them to reviſe every two or three Moneths once; the State of his Negotiation, to take the creame of it for their Uſe, and to direct him in the proſecuting of his Purchaſes and Communications, for the better Advantage of the Publique.</p>
+               <p>Then Secondly, hee ſhould yearly once at a certaine time bee obliged to give up the ac<g ref="char:EOLhyphen"/>count of his Annuall Negotiation, to the Profeſſors of all Sciences in both Univerſi<g ref="char:EOLhyphen"/>ties, and to the Heads and Maſters of Colled<g ref="char:EOLhyphen"/>ges and Halls, who ſhould bee made a Speci<g ref="char:EOLhyphen"/>all Committee and appointed, according to their ſeverall Faculties, or all jointly to meet, and to take into Conſideration the things which he ſhall produec that ſuch peeces as ſhal deſerve to bee put into the Publike Libraries, to bee made Common unto Scholars, or other<g ref="char:EOLhyphen"/>wiſe publiſhed in Print for the benefit of eve<g ref="char:EOLhyphen"/>ry one, may by their advice bee applyed unto their proper Uſes; for the advancement of
+<pb n="51" facs="tcp:130554:28"/>
+Divine and Humane Learning, according to the Counſell and Deſigne of the Lord <hi>Veru<g ref="char:EOLhyphen"/>lam,</hi> to whoſe ſtructure, by their joint advice, every yeare ſome ſtones ſhould bee added. And to this effect a more ſpeciall Way of Concurrence and Correſpondency amongſt the Profeſſors and Heads of Colledges them<g ref="char:EOLhyphen"/>ſelves ſhould in due time bee contrived and propoſed.</p>
+               <p>Hitherto wee have conſidered theſe Offices of Addreſſe in their Intrinſecall Frame and Uſefulneſſe, whereby they may bee ſervicea<g ref="char:EOLhyphen"/>ble unto all degrees and qualities of Perſons; but eſpecialy unto the deſignes which the Par<g ref="char:EOLhyphen"/>liament ſhould Advance for our compleate Reformation: Now one word more is to bee added concerning the Extrinſecall Frame and Conſtitution thereof, and then We have done.</p>
+               <p>In the Affaires of this world, where Inſtru<g ref="char:EOLhyphen"/>ments and Agents muſt be employed, nothing can bee done without Expences. Men muſt live in the Body, and Money muſt anſwer for all; nor can thoſe that ſerve the Publick (al<g ref="char:EOLhyphen"/>though they may beſtow freely their owne paines, without coſt to the Publique, yet they cannot command others) without Meanes
+<pb n="52" facs="tcp:130554:29"/>
+maintaine thoſe whom they muſt ſet a worke, and without whoſe helpe the buſineſſe can<g ref="char:EOLhyphen"/>not proceed. Therefore as it is juſt, ſo it is neceſſary that the Employments which re<g ref="char:EOLhyphen"/>dound to the benefit of all, ſhould be maintai<g ref="char:EOLhyphen"/>ned by Publick Revenues.</p>
+               <p>And as there is no Charity ſo commendable, as that which reacheth unto All, and doth con<g ref="char:EOLhyphen"/>ferre or procure the benefits which without all compariſon are the beſt, ſo there is no<g ref="char:EOLhyphen"/>thing ſo anſwerable to the Duty, and ſo commendable in the care of a Chriſtian Magi<g ref="char:EOLhyphen"/>ſtrate, as to beſtow his Charity upon ſuch Objects. And although the maintaining of theſe Offices of Addreſſe in one reſpect may bee commended to the State, as the greateſt Worke of Charity, which can bee beſtowed upon the whole Nation, that is upon them<g ref="char:EOLhyphen"/>ſelves in their Members, yet in another re<g ref="char:EOLhyphen"/>ſpect the Charges which will bee laid out this way by them, will bee found the moſt profi<g ref="char:EOLhyphen"/>table and richeſt Trade that they can drive, to increaſe their owne worldly Subſtance: For it will direct them both to preſerve without loſſe, and mannage all that they have within the Kingdome to the beſt advantage; and al<g ref="char:EOLhyphen"/>ſo
+<pb n="53" facs="tcp:130554:29"/>
+to increaſe their Stock every way by all the Negotiations which are afoot amongſt their Subjects, within themſelves, or towards their Neighbour Nations. So then there is nothing more Juſt, nothing more Charitable, and nothing more Profitable in order to Trade it ſelf, then to beſtow that coſt which will bee neceſſary to maintaine theſe Offices, and the Agents belonging unto them.</p>
+               <p>The Firſt Thing then which is to bee be<g ref="char:EOLhyphen"/>ſtowed upon them, is a Houſe in a place which ſhall bee found for each of them moſt conve<g ref="char:EOLhyphen"/>nient. And for the Addreſſe of <hi>Accomodati<g ref="char:EOLhyphen"/>ons,</hi> no doubt <hi>London</hi> will bee the moſt Cen<g ref="char:EOLhyphen"/>trall place. But for the Addreſſe of <hi>Communi<g ref="char:EOLhyphen"/>cations, Oxford</hi> ſhould bee made the Center, beſides other Reaſons for this, becauſe the Great Library being there, more Strangers for it reſort thither, and the Keeper thereof may bee a great helpe unto the Negotiation of the Warden of Addreſſes for Spirituall Matters.</p>
+               <p>The Warden of the <hi>London</hi> Office ſhould bee furniſhed with a Houſe and Meanes to ſet up and furniſh his Office with all Neceſſa<g ref="char:EOLhyphen"/>ries; to him Maintenance ſhould bee allowed to attend his Charge without diſtraction; and
+<pb n="54" facs="tcp:130554:30"/>
+becauſe his worke will be principally to over<g ref="char:EOLhyphen"/>ſee his Clerkes, and to make Obſervations of Matters fit for the States benefit and Informa<g ref="char:EOLhyphen"/>tion; he ſhould be free from all other Employ<g ref="char:EOLhyphen"/>ments, except that which is proper and ſubor<g ref="char:EOLhyphen"/>dinate unto the Charge of Addreſſes, or Col<g ref="char:EOLhyphen"/>laterall thereunto in the Way of Trading and Employing People that are out of employ<g ref="char:EOLhyphen"/>ment. His Clerkes may be ſworne unto Him, and Hee to the State, to bee faithfull accor<g ref="char:EOLhyphen"/>ding to the directions which ſhould bee given him. The Clerkes ſhould have ſome Compe<g ref="char:EOLhyphen"/>tency allowed them, that without incroaching upon the Subject, or burdening the worke of Addreſſe, they may be able to live; and if any benefit bee allowed them out of the Worke which they doe, it ſhould bee no more at the moſt, but a penny or two, for ſome Extract in Writing, to bee given in matters of profit, by ſuch as are rich; but to the Poore all is to bee done freely; and if any Clerke bee convicted to have refuſed to communicate the Addreſſe which ſhall bee deſired of him by any, hee ſhall bee moſt ſeverely puniſhed and loſe his place without mercy. And as the Warden of Addreſſes for Accommodation is over his
+<pb n="55" facs="tcp:130554:30"/>
+Clerkes, ſo over Him ſome others ſhould have an inſpection to this intent, to ſee Matters carryed faithfully and truly for the Publique Good, to helpe the Warden with Advice and Counſell in Caſes of Importance; and to con<g ref="char:EOLhyphen"/>ſider the Occaſions of his Ordinary and Extra<g ref="char:EOLhyphen"/>ordinary Expences (if any ſhould be for the State) that ſome way may bee thought on to refound the ſame unto Him, as is juſt, and to this effect ſome Revenue of the State ſhould be nam<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> to beare ſuch burdens.</p>
+               <p>The Warden of the <hi>Oxford</hi> Office may have ſome Colledge or Hall appointed for his Of<g ref="char:EOLhyphen"/>fice-place; and the Revenues thereof for his maintenance to ſupport him in his Charge. His Clerkes that keep his Regiſters, ſhould bee maintained under him, and alſo ſuch as he ſhall have need of for his Negotiation to Copie out Matters, to write Letters for Correſpondency as hee ſhall direct them; and to give Extracts freely to all ſuch as hee ſhall appoint them to give unto.</p>
+               <p>And as without his knowledge and appoint<g ref="char:EOLhyphen"/>ment the Clerkes for his peculiar Negotiation ſhould not bee permitted to impart any thing to any, ſo the other Clerkes muſt be obliged
+<pb n="56" facs="tcp:130554:31"/>
+to deny nothing unto any that ſhall deſire In<g ref="char:EOLhyphen"/>formation of things Contained in the Standing and Occaſionall Regiſters.</p>
+               <p>The Extraordinary Expences which he ſhal bring to the States account, the Committee of Profeſſors and Heads of Colledges ſhall conſi<g ref="char:EOLhyphen"/>der and allow to bee paid, as they ſhall ſee Cauſe, out of ſome Revenue which may bee deſigned for ſuch an Uſe. And ſeeing there can be nothing propoſed of a more Publique and Uſefull nature, then this worke is; We ſup<g ref="char:EOLhyphen"/>poſe it would bee an injury done to the zeale and integrity of this Parliament, which hath received ſo many bleſſings at Gods hand, which is ſo deeply engaged to his ſervice; and which hath undertaken ſo great things, and ſo ſucceſ<g ref="char:EOLhyphen"/>fully advanced our Reformation ſo far hither to; to think that ſuch an Enterpriſe as this, will not finde favour in their eyes, and ſufficient Meanes to ſupport the Charges neceſſary for the Undertaking and proſecuting thereof. For ſuppoſe the Charges ſhould bee farre greater then at firſt they need to bee (becauſe a ſmall foundation may give a beginning to this work) yet what difficulty can there bee to allow them, where ſo many and large Revenues are
+<pb n="57" facs="tcp:130554:31"/>
+by Gods Providence for ſuch Ends abundant<g ref="char:EOLhyphen"/>ly put into their hands, and cannot juſtly bee otherwiſe diſpoſed of then to Publique Uſes? The Eccleſiaſtical Eſtates and Revenues, which are ſo Vaſt, and now to bee diſpoſed of, to what Publique Uſes can they bee more pro<g ref="char:EOLhyphen"/>fitably applyed, then to the Advancement of the Wayes of Piety and Learning? And if in proceſſe of time the Occaſions in this Worke of Publike Expences grow greater (as no doubt they will, when the Communication be<g ref="char:EOLhyphen"/>ing inlarged, the benefit thereof will invite all the Learned to a Concurrence) then alſo more Meanes may be raiſed to beare the ſame, which divers wayes may bee effected; whereof wee ſhall not need to ſpeak; but to make Way for the increaſe of a Competent Stock hereafter in due time, Feoffees in truſt may bee appointed by the Houſes, to receive ſuch Legacies, Do<g ref="char:EOLhyphen"/>nations and Contributions which will cheer<g ref="char:EOLhyphen"/>fully proceed from the Charity and zeal of the Lovers of Religion and Learning towards the Maintenance of a Trade for the Advancement of the ſame.</p>
+               <p>Now to have the matter carryed on eaſily and without delay. It ſhould bee imparted
+<pb n="58" facs="tcp:130554:32"/>
+unto all, or as many as are eminently and truly zealous for the Glory of God, that are free from Selfe-ends and partiality, and that Love Learning, and have power with o<g ref="char:EOLhyphen"/>thers in the Houſes. If not all, but onely three or foure of theſe bee throughly poſ<g ref="char:EOLhyphen"/>ſeſſed with this deſigne, and they can bee brought to lay their Heads together, to move for the Erecting of ſuch an Office in the Houſes, and get the Contrivement ther<g ref="char:EOLhyphen"/>of Referred unto ſome few, who for Pie<g ref="char:EOLhyphen"/>ty, Prudency, and Learning are moſt com<g ref="char:EOLhyphen"/>mendable unto all, no doubt the thing may bee ſpeedily brought to paſſe, and a founda<g ref="char:EOLhyphen"/>tion laid, which by the accompliſhment of our Reformation will bee a bleſſing unto all Poſte<g ref="char:EOLhyphen"/>rity: Whereunto our prayers ſhall be offered as a daily Sacrifice, and what elſe God ſhall in<g ref="char:EOLhyphen"/>able us to contribute; to whom the ſucceſſe of all our Wiſhes is to bee referred in Chriſt; to Him bee Glory and Honour for ever. <hi>Amen.</hi>
+               </p>
+               <q>
+                  <bibl>
+                     <hi>Pſal. 50.23.</hi>
+                  </bibl>
+                  <p>Hee that Ordereth his Converſation aright, ſhall ſee the Salvation of God.</p>
+                  <bibl>
+                     <pb n="59" facs="tcp:130554:32"/>
+                     <hi>Philip. 4.8.</hi>
+                  </bibl>
+                  <p>Whatſoever things are true, whatſoever things are honest, whatſoever things are juſt, what<g ref="char:EOLhyphen"/>ſoever things are lovely, whatſoever things are of good report; if there be any <g ref="char:V">Ʋ</g>ertue, and if there be any praiſe, thinke on theſe things.</p>
+               </q>
+               <p>Anno 1647.</p>
+            </div>
+         </div>
+         <div type="account">
+            <pb facs="tcp:130554:33"/>
+            <pb facs="tcp:130554:33" rendition="simple:additions"/>
+            <head>THE PERFECT Weekely Account: Containing, Certain Special and Remarkable Paſsages from both Houſes of PARLIAMENT; And Collections of ſeverall Letters from the Armies.</head>
+            <head type="sub">From <hi>Wedneſday</hi> May 19. to <hi>Wedneſday</hi> the 26. of May. 1647.</head>
+            <div type="entry">
+               <head>
+                  <hi>WEDNESDAY,</hi> May 19.</head>
+               <p>
+                  <seg rend="decorInit">O</seg>Ne evill drives forward a<g ref="char:EOLhyphen"/>nother, as one wave fol<g ref="char:EOLhyphen"/>lowes another, troubles are alwayes preſent, and the ſhadow of what is good deceiveth us: It is the cuſtome of the vul<g ref="char:EOLhyphen"/>gar ſort to deſpiſe the preſent, deſire the future praiſe, and extoll that which is paſt.</p>
+               <p>Both houſes of Parl. paſt the Ordinance for Indempnity, and orde<g ref="char:EOLhyphen"/>red it to be printed, Wherein it is ordained &amp; declared, that no perſon or perſons whatſoever who have ſinc the beginning of this preſent Parl. acted or done, or commanded to bee acted or done, any act or thing whatſoever by authority of this preſent Parl. or for the ſervice or benefit thereof, by Sea or by Land,
+<pb facs="tcp:130554:34"/>
+ought to be indicted, proſecuted, or moleſted for the ſame: And that every ſuch perſon or perſons whatſoever, are &amp; ſhall be hereby fully acquitted, and diſcharged of all actions, ſuites, indictments informations, proſecutions, judgments, executions &amp; moleſtations whatſoever, for or concerning the ſame. And all Judges, Juſtices, Sheriffes, Mayors, Bayliffs, Jurors Officers, &amp; Miniſters of Juſtice whatſoever, are thereby required to take notice thereof, &amp; duly obſerve the ſame. And for the eaſe of ſuch perſons who are or ſhall be ſued, indicted, proſecuted, &amp;c. they may plead the generall iſſue <hi>non-culpable,</hi> and if the verdict paſſe with the defendant, he ſhall have treble coſts: and if any be unable to defend a ſuit at common-law, or find them<g ref="char:EOLhyphen"/>ſelves a grieved in the proceedings thereof, a Committee of Lords &amp; Commons are appointed to hear the ſame, &amp; receive appeales from the parties.</p>
+               <list>
+                  <head>The Names of the ſaid Committee are theſe:</head>
+                  <item>Earle of <hi>Northumberland.</hi>
+                  </item>
+                  <item>Earle of <hi>Kent.</hi>
+                  </item>
+                  <item>Earle of <hi>Rutland.</hi>
+                  </item>
+                  <item>Earle of <hi>Pembroke.</hi>
+                  </item>
+                  <item>Earle of <hi>Lincolne.</hi>
+                  </item>
+                  <item>Earle of <hi>Nottingham.</hi>
+                  </item>
+                  <item>Earle of <hi>Suffolke,</hi>
+                  </item>
+                  <item>Earle of <hi>Salsbury.</hi>
+                  </item>
+                  <item>Earle of <hi>Warwicke.</hi>
+                  </item>
+                  <item>Earle of <hi>Denbigh.</hi>
+                  </item>
+                  <item>Earle of <hi>Middleſex.</hi>
+                  </item>
+                  <item>Earle of <hi>Mancheſter.</hi>
+                  </item>
+                  <item>Earle of <hi>Mulgrave,</hi>
+                  </item>
+                  <item>Earle of <hi>Stamford.</hi>
+                  </item>
+                  <item>Viſcount <hi>Hereford.</hi>
+                  </item>
+                  <item>Viſcount <hi>Say.</hi>
+                  </item>
+                  <item>Lord <hi>De-la-ware.</hi>
+                  </item>
+                  <item>Lord <hi>Berkly.</hi>
+                  </item>
+                  <item>Lord <hi>Wharton.</hi>
+                  </item>
+                  <item>Lord <hi>Willoghby.</hi>
+                  </item>
+                  <item>Lord <hi>North.</hi>
+                  </item>
+                  <item>Lord <hi>Hunſdone.</hi>
+                  </item>
+                  <item>Lord <hi>Gray</hi> of warke.</item>
+                  <item>Lord <hi>Roberts.</hi>
+                  </item>
+                  <item>Lord <hi>Howard.</hi>
+                  </item>
+                  <item>Lord <hi>Bruce.</hi>
+                  </item>
+                  <item>
+                     <list>
+                        <head type="sub">Commons.</head>
+                        <item>Mr. <hi>Hollis.</hi>
+                        </item>
+                        <item>Col. <hi>Birch.</hi>
+                        </item>
+                        <item>Mr. <hi>Swinſon.</hi>
+                        </item>
+                        <item>Mr. <hi>Maynard.</hi>
+                        </item>
+                        <item>Mr. <hi>Boies.</hi>
+                        </item>
+                        <item>Mr. <hi>Recorder.</hi>
+                        </item>
+                        <item>Mr. <hi>Soliciter.</hi>
+                        </item>
+                        <item>Col. <hi>Purefoy.</hi>
+                        </item>
+                        <item>Col. <hi>Harvey.</hi>
+                        </item>
+                        <item>Sir Phil. <hi>Stapleton.</hi>
+                        </item>
+                        <item>Col. <hi>Morley.</hi>
+                        </item>
+                        <item>Sir Wil. <hi>Allenton.</hi>
+                        </item>
+                        <item>Livet. Gen. <hi>Maſſey.</hi>
+                        </item>
+                        <item>Mr. <hi>Whitlock.</hi>
+                        </item>
+                        <item>Sir Gilbert <hi>Garard.</hi>
+                        </item>
+                        <item>Sir William <hi>Waller.</hi>
+                        </item>
+                        <item>Mr. <hi>Edwards.</hi>
+                        </item>
+                        <item>Mr. <hi>Challener.</hi>
+                        </item>
+                        <item>Livet. Gen: <hi>Crumwell.</hi>
+                        </item>
+                        <item>
+                           <pb facs="tcp:130554:34"/>Mr. <hi>Tate.</hi>
+                        </item>
+                        <item>Sir William <hi>Maſſau.</hi>
+                        </item>
+                        <item>Sir Sam. <hi>Luke.</hi>
+                        </item>
+                        <item>Mr. <hi>Liſle</hi> F. M. Gen. <hi>Skippon.</hi>
+                        </item>
+                        <item>Mr Fr. <hi>Allen.</hi>
+                        </item>
+                        <item>Col. <hi>Walton.</hi>
+                        </item>
+                        <item>Mr. <hi>Rigby.</hi>
+                        </item>
+                        <item>Sir Ionn <hi>Maynard.</hi>
+                        </item>
+                        <item>Mr. <hi>Selden.</hi>
+                        </item>
+                        <item>Mr. <hi>Gote.</hi>
+                        </item>
+                        <item>Sir Will. <hi>Breurton,</hi>
+                        </item>
+                        <item>Mr. <hi>Grimſton.</hi>
+                        </item>
+                        <item>Mr. <hi>Darley.</hi>
+                        </item>
+                        <item>Mr. <hi>Dove,</hi>
+                        </item>
+                        <item>Sir Fr. <hi>Bampfield.</hi>
+                        </item>
+                        <item>Lord <hi>Monſon.</hi>
+                        </item>
+                        <item>Sir Mich. <hi>Liveſey.</hi>
+                        </item>
+                        <item>Sir Thomas <hi>Widdrington.</hi>
+                        </item>
+                        <item>Sir Ar. <hi>Hazilrigge.</hi>
+                        </item>
+                        <item>Mr. <hi>Bainton.</hi>
+                        </item>
+                        <item>Mr. <hi>Nicholes.</hi>
+                        </item>
+                        <item>Mr. <hi>Weaver.</hi>
+                        </item>
+                        <item>Mr. Nat: <hi>Fines.</hi>
+                        </item>
+                        <item>Col. <hi>Rainſbourough.</hi>
+                        </item>
+                        <item>Major. <hi>Hariſon.</hi>
+                        </item>
+                        <item>Mr. Wal. <hi>L<gap reason="illegible" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>ng.</hi>
+                        </item>
+                        <item>Mr. <hi>Hollows.</hi>
+                        </item>
+                        <item>Mr. Mich. <hi>Corbet.</hi>
+                        </item>
+                        <item>Col. <hi>Thomſon.</hi>
+                        </item>
+                        <item>Mr. <hi>Drake.</hi>
+                        </item>
+                        <item>Sir Thomas <hi>Middleton.</hi>
+                        </item>
+                        <item>Mr. William <hi>Perpoint.</hi>
+                        </item>
+                     </list>
+                  </item>
+               </list>
+               <p>Theſe, or any five of them, are a Committee for relief of ſuch perſons, in ſuch caſes aforeſaid.</p>
+            </div>
+            <div type="entry">
+               <head>
+                  <hi>Thurſday May</hi> 20.</head>
+               <p>In my laſt I made mention of a Letter that came from the King, concerning his Anſwer to the Proportions, which being the ſubſtant all part of the Letter, I ſhall not vary from the words I received it, <hi>viz.</hi>
+               </p>
+               <floatingText type="letter">
+                  <body>
+                     <opener>
+                        <salute>C. R.</salute>
+                     </opener>
+                     <p>In anſwer to all the Propoſitions concerning Religion, His Maj. propoſeth that he wil confirme the Presby<g ref="char:EOLhyphen"/>teriall Government, the Aſſembly of Divines at <hi>Weſt<g ref="char:EOLhyphen"/>minſter,</hi> and the Directory, for three yeares, being the time ſet downe by the two Houſes, ſo that His Maj. &amp; His Houſhold be not hindred from that forme of Gods Service which they formerly had; And alſo, that a free conſultation and debate be had with the Divines at <hi>Weſt<g ref="char:EOLhyphen"/>minſter</hi> (twenty of His Maj. nomination being added un<g ref="char:EOLhyphen"/>to them) whereby it may be determined by His Maj. &amp; the two Houſes, how the Church ſhall be governed af<g ref="char:EOLhyphen"/>ter
+<pb facs="tcp:130554:35"/>
+the ſaid three yeares or ſooner, if differences may be agreed. Touching the Covenant, His Maj. is not yet therein ſatisfied, and deſires to reſpite His particular an<g ref="char:EOLhyphen"/>ſwer thereunto untill His comming to <hi>London,</hi> becauſe it being a matter of conſcience he cannot give a reſoluti<g ref="char:EOLhyphen"/>on therein till he may be aſſiſted with the advice of ſome of His owne Chaplains, which have hitherto bin denied him and then he will make cleerly appear, both his zeale to the Proteſtant Profeſſion and the Union of thoſe two Kingdomes, which he conceives to be the maine drift of this Covenant. To the 7. &amp; 8. Propoſitions, his Majeſty will conſent, to the 9. His Majeſty doubts not but to give good ſatisfaction, when he ſhall be particularly informed how the ſaid penalties ſhall be levied &amp; diſpoſed of To the 10 His Maj. Anſwer is, That he hath bin alwayes ready to prevent the practiſes of Papiſts, &amp; therefore is content to paſſe an Act of Parl. for that purpoſe &amp;c His Maj. will give his conſent to the Act for the due obſervation <gap reason="illegible: faint" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> the Lords Day, for the ſuppreſſing of Innovations, and thoſe con<g ref="char:EOLhyphen"/>cerning the preaching of Gods Word &amp; <gap reason="illegible: faint" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> Non Reſi<g ref="char:EOLhyphen"/>dence &amp; Pluralities and his Majeſty will yeeld to ſuch Act or Acts, as ſhall be requiſite to raiſe monies for the payment and ſatisfying all publike debts, expecting alſo that his will bee therein included.</p>
+                     <p>As to the Propoſition touching the Militia, though his Maj. conſent unto it <hi>in terminis</hi> as it is propoſed, becauſe thereby he conceives, he wholly parts with the power of the Sword entru<g ref="char:EOLhyphen"/>ſted to him by God &amp; the Lawes of the Land, for the protect<g ref="char:EOLhyphen"/>ion &amp; government of his People, therby at once diveſting him<g ref="char:EOLhyphen"/>ſelfe, &amp; diſ-inheriting his Poſterity of that right &amp; prerogative of the Crown which is abſolutely neceſſary to the Kingly of<g ref="char:EOLhyphen"/>fice, and ſo weaken monarchy in this Kingdom, that little more then the name &amp; ſhadow of it will remain: yet if it will bee only ſecurity for the preſervation of the peace of the kingdom after the unhappy troubles, &amp; the due performance of all the a<g ref="char:EOLhyphen"/>greements which are now to be concluded (which is deſired) which his Maj. always underſtood to be the caſe, &amp; hopes that herein he is not miſtaken, his Maj. will give abundant ſatisfact<g ref="char:EOLhyphen"/>ion,
+<pb facs="tcp:130554:35"/>
+to which end he is willing by Act of Parl. That the whole power of the Militia both by Sea &amp; Land for the ſpace of ten yeares be in the hands of ſuch perſons as the two houſes ſhall nominate, &amp; afterwards to return to the proper channel again, as it was fn the times of <hi>Q. Eliz.</hi> &amp; K. <hi>Iames</hi> of bleſſed memory. His Maj. therefore deſires, that his two houſes of Parlia<g ref="char:EOLhyphen"/>ment would ſeriously deſcend into theſe conſiderations, and likewiſe tenderly look upon his condition herein, &amp; the perpetuall diſhonour that muſt cleave to him, if Hee ſhall thus abandon ſo many perſons of Condition and Fortune that have ingaged themſelves with &amp; for Him, out of a ſence of Duty, and propounds as a very accepta<g ref="char:EOLhyphen"/>ble teſtimony of their affection towards him, That a ge<g ref="char:EOLhyphen"/>nerall Act of Oblivion and free Pardon bee forthwith paſſed by Act of Parliament.</p>
+                     <p>Concerning the Officers mentioned in the 19. Article. His Majeſty when he ſhall come to <hi>Weſtminſter,</hi> wil gra<g ref="char:EOLhyphen"/>tifie his Parliament all that poſſibly hee may, without deſtroying the alterations which are neceſſary for the Crown. His Majeſty will willingly conſent to the Act for the confirmation of the Priviledges and Cuſtomes of the City of <hi>London,</hi> and all that is mentioned in the Propoſitions for their particular advantage.</p>
+                     <p>This day the Commons had a large debate on the Pe<g ref="char:EOLhyphen"/>tition I mentioned in my laſt, and it was voted that the ſaid Petition ſhould be burnt on Satturday next, in the Pallace Yard, at Weſtminſter, and againſt the Royall Exchange <hi>London.</hi> And it was voted that a VVarrant ſhould iſſue to the Sheriffes accordingly.</p>
+                     <p>This day the Committee it Goldſmiths Hal made re<g ref="char:EOLhyphen"/>port to the Houſe, concerning the Compoſitions of <hi>Mr. Perey, Mr. Kercher,</hi> and <hi>Mr. Trinenlet</hi> which were confi<g ref="char:EOLhyphen"/>ned by the Houſe.</p>
+                     <p>
+                        <pb facs="tcp:130554:36"/>The Kings Letter being taken into conſideration by the houſe of Peeres, a vote paſſed that his Maj. ſhall come to <hi>Oat<g ref="char:EOLhyphen"/>lands,</hi> ſo ſoon as the houſe can be made ready, and that the con<g ref="char:EOLhyphen"/>currence of the houſe of Commons be deſired, &amp;c.</p>
+                  </body>
+               </floatingText>
+            </div>
+            <div type="entry">
+               <head>
+                  <hi>Fryday May</hi> 21.</head>
+               <p>This day we received the reſult of the Army, or the Soldiers Reply to Field-Marſhal Gen <hi>Skippon,</hi> the heads whereof I ſhal here give you, <hi>viz.</hi>
+               </p>
+               <p>FIrſt, that whereas it pleaſes the honourable houſes of Parl. upon miſ<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>information falſly ſuggeſted unto them, to declare and immediatly publiſh in print to the Kingdome, that the Petition of the Army, being but on<g ref="char:EOLhyphen"/>ly an intention, did tend to put the Army into a diſtem<g ref="char:EOLhyphen"/>per and mutiny, to obſtruct the relief of <hi>Ireland,</hi> and to put conditions upon the Parl. and declaring the Petitio<g ref="char:EOLhyphen"/>ners, if they ſhall proceed therein, no leſſe then enemies to the State, and diſturbers to the Publique Peace, which ſaid heavie charge remaining upon record, as a <hi>Memo<g ref="char:EOLhyphen"/>randum</hi> of infamy upon us to poſterity; we cannot chuſe but be deeply ſenſible therof, and with amazement, won<g ref="char:EOLhyphen"/>der how ſo humble and innocent adreſſe, intented to the Generall, could beget ſo ſtrange an interpretation,</p>
+               <p n="2">2. That whereas thoſe perſons that have attempted to beget and attempt and foment diviſions betweene the Parl. and their Army, by their ſurrepticious obtaining &amp; miſrepreſenting our Petitions, and by producing other ſcandalous Letters from unknown hands by them pro<g ref="char:EOLhyphen"/>duced, the Authors whereof are concealed, &amp; not brought forth to make a judiciall proofe of thoſe things laid to our charge, which we cannot but look upon as a juſt cauſe of griefe, that the ſuggeſtors of ſuch untruths ſeeme to be incouraged, and we who are innocent remain unjuſti<g ref="char:EOLhyphen"/>fied.</p>
+               <p n="4">
+                  <pb facs="tcp:130554:36"/>4. That divers Officers of the Army of publike and known integrity, have bin (upon what grounds we know not) ſent for to the Parl. as delinquents; Some wherof do at this preſent attend there, and cannot procure a tryall, having nothing conſiderable laid to their charge, &amp;c.</p>
+               <p n="4">4. That whereas we underſtand that the Parl. hath vo<g ref="char:EOLhyphen"/>ted a ſudden disbanding of the Army, not having made ſufficient proviſion for the auditing of our arreares, and ſtating of our accounts, our own reaſon, and experience of others, makes us ſenſible, how difficult, chargeable, &amp; uncertain the obtaining thereof will be after our disban<g ref="char:EOLhyphen"/>ding, and therefore juſtly make us ſenſible thereof.</p>
+               <p n="5">5. That they ſtand in ſear of being preſt, &amp;c.</p>
+               <p n="6">6. They deſire that the Parl. Declaration, in reſpect of freedome to thoſe that were Apprentices, may be put in force againſt ſuch maſters as refuſe it.</p>
+               <p n="7">7. That widdowes who have loſt their husb<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nds, and children their parents in this ſervice, are not ſufficiently provided for a future livelyhood.</p>
+               <p n="8">8. That notwithſtanding the great care of the Com<g ref="char:EOLhyphen"/>mittee and Treaſures of the Army, and the cheerfull rea<g ref="char:EOLhyphen"/>dineſſe of moſt Counties for the paying of Aſſeſments, as thoſe where we now quarter do affirme, nevertheleſſe the private ſouldiers are neceſſitated to take free quarter for the preſent, which is very irkſome unto us to bee ſo burdenſome to our friends.</p>
+               <p>The houſe of Commons taking the premiſes into conſidera<g ref="char:EOLhyphen"/>tion, paſſed ſeveral votes to this effect, <hi>viz,</hi>
+               </p>
+               <p n="1">1. <hi>That the Souldiers arrears ſhall be speedily audited<g ref="char:punc">▪</g> &amp;c.</hi> 2. <hi>That the Ordinances concerning Prentices ſhall be made good.</hi> 3. <hi>That an Ordinance ſhall be drawn up, to exempt thoſe from preſſing for any forraign ſervice, which have voluntarily ſerved the Parliament in the late wars.</hi> 4. <hi>That an Ordinance ſhall be brought in for main<g ref="char:EOLhyphen"/>tenance of maymed Soldiers, widowes, &amp;c. and as to the point of vin<g ref="char:EOLhyphen"/>dication, and other things, the Houſe ordered to debate the ſame on Tueſday next.</hi>
+               </p>
+            </div>
+            <div type="entry">
+               <pb facs="tcp:130554:37"/>
+               <p>
+                  <hi>Satturday,</hi> This day the houſe ſate not, and for the Intelli<g ref="char:EOLhyphen"/>gence abroad, we will refer you to <hi>Munday.</hi>
+               </p>
+            </div>
+            <div type="entry">
+               <p>
+                  <hi>Munday</hi> By Letters from <hi>Ireland,</hi> we received a ratification of ſome good ſervices lately performed by the L. <hi>Inchiqueene,</hi> as his taking of <hi>Dromany, Caperqueen,</hi> &amp; <hi>Dungarvan,</hi> in which he had Ammunition &amp; other good prize, beſides many brave head of cattel which he took from the Rebels. But on the other ſide its certified, the Rebels are exceedingly inraged that <hi>Dub<g ref="char:EOLhyphen"/>lin</hi> is in the power of the <hi>Parliament</hi> Forces, &amp; that there was lately a plot betwixt them &amp; ſome Iriſh in the City of <hi>Dublin</hi> to have betrayed the ſame; for which deſign being diſcovered, 14. Iriſh were lately hanged in <hi>Dublin.</hi> They have taken <hi>Carlos</hi> 30. miles from <hi>Dublin,</hi> and are in hopes to draw neerer it, if not timely prevented.</p>
+               <p>Out of <hi>Scotland</hi> we underſtand, that Lieut. <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+                  <hi>ly</hi> makes his neer approaches on the Enemies quarters, <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>he ſeaſon now affording forrage for his horſes, we are likely to heare of action ſhortly.</p>
+               <p>A Letter was intercepted (&amp; brought up to the Par<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.) going to the King from Mr. <hi>Aſhburnham</hi> his Majeſtie guide wher<g ref="char:EOLhyphen"/>in he adviſeth the King n<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t to make any abſolute agreement with the Parl offering ſe<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>erall reaſons both from and the neere agreement of peace there is between <hi>France</hi> &amp; <hi>Spain,</hi> by which meanes the King m<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ght aſ<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ure himſelf of a great Army. His Excellency Sir <hi>T. Fairfax</hi> is returned from <hi>London</hi> to his head<g ref="char:EOLhyphen"/>quarters, where his Officers met him, greatly congratulating his coming down to them<g ref="char:punc">▪</g> we are further certified from thence that the Army is in a very mild &amp; peaceable condition, keeping good order and diſcipline, and read, to obey command from their Superiours.</p>
+               <p>Thus have you this Weekly Account of</p>
+               <p>
+                  <hi>The ſeverall Votes of the Houſe, in anſwer to the complaints and a grievances of the Army, and other further proceedings touching their vindication. The Copy of the Kings Letter to the Parlament, And a Letter of adv<gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ce to his Majeſty from</hi> Aſhburnham, <hi>With particulars thereof. A plot for betraying of Dublin<g ref="char:punc">▪</g> and</hi> 14 <hi>hanged about the ſame. With the laſt intelligence from Scotland.</hi>
+               </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
